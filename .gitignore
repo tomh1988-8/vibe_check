@@ -18,6 +18,9 @@
 # CSV files
 *.csv
 
+# rds
+*.rds
+
 # Other common files to ignore
 .DS_Store
 Thumbs.db
