@@ -1,0 +1,23 @@
+# R-related files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+
+# CSV files
+*.csv
+
+# Other common files to ignore
+.DS_Store
+Thumbs.db
