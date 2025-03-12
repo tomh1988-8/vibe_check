@@ -266,7 +266,8 @@ updated_posts <- updated_posts %>%
   )
 
 ########################## ADD NEW DATA ########################################
+combined_posts <- readRDS(file = "data/combined_posts.rds")
 combined_posts <- bind_rows(combined_posts, updated_posts)
 ########################## SAVE DATA ###########################################
-# Write to /data
+# Save combined_posts as an RDS file
 saveRDS(combined_posts, file = here("data", "combined_posts.rds"))
