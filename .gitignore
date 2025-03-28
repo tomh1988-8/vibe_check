@@ -1,26 +1,38 @@
-# R-related files
-.Rhistory
-.RData
-.Ruserdata
+# === R/Shiny ===
+frontend_shiny_app/.Rhistory
+frontend_shiny_app/.RData
+frontend_shiny_app/.Rproj.user/
+frontend_shiny_app/renv/library/
+frontend_shiny_app/renv/python/
+frontend_shiny_app/renv/staging/
 
-# RStudio project files
-.Rproj.user/
-*.Rproj
+# === Python backend/API and RAG ===
+backend_python_api/.venv/
+backend_python_api/venv/
+backend_python_api/__pycache__/
+rag/.venv/
+rag/venv/
+rag/__pycache__/
+*.pyc
+*.pyo
 
-# Temporary files
-*.tmp
-*.temp
-*.bak
-*.swp
-*.swo
-*.log
+# === Database (Docker/pgvector/postgres) ===
+database/.env
+database/*.log
+database/data/
+database/docker-compose.override.yml
 
-# CSV files
-*.csv
-
-# rds
-*.rds
-
-# Other common files to ignore
+# === General OS Files ===
 .DS_Store
 Thumbs.db
+
+# === VSCode ===
+.vscode/
+
+# === Logs ===
+*.log
+
+# === Temporary files ===
+*~
+*.swp
+.Rproj.user
