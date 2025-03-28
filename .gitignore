@@ -10,6 +10,9 @@ frontend_shiny_app/renv/staging/
 backend_python_api/.venv/
 backend_python_api/venv/
 backend_python_api/__pycache__/
+backend_x_scraper/.venv/
+backend_x_scraper/venv/
+backend_x_scraper/__pycache__/
 rag/.venv/
 rag/venv/
 rag/__pycache__/

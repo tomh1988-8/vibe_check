@@ -8,6 +8,8 @@ library(lubridate)
 library(httr)
 library(here)
 
+combined_posts <- readRDS(file = here("data", "combined_posts.rds"))
+
 ########################## READ IN DATA ########################################
 # Define the folder path
 folder_path <- "C:/Users/TomHun/OneDrive - City & Guilds/Documents/Code/Python/monitor/output"
@@ -266,7 +268,6 @@ updated_posts <- updated_posts %>%
   )
 
 ########################## ADD NEW DATA ########################################
-combined_posts <- readRDS(file = "data/combined_posts.rds")
 combined_posts <- bind_rows(combined_posts, updated_posts)
 ########################## SAVE DATA ###########################################
 # Save combined_posts as an RDS file
