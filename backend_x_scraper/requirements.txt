@@ -1,0 +1,11 @@
+# Web scraping dependencies
+beautifulsoup4>=4.12.0
+selenium>=4.10.0
+webdriver-manager>=4.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Project structure and environment
+python-dotenv>=1.0.0
+pyprojroot>=0.2.0
