@@ -6,10 +6,12 @@ library(tidyverse)
 library(lubridate)
 library(httr)
 library(here)
+# Add furrr for parallel processing
+library(furrr)
 
 ########################## READ IN DATA ########################################
 # Define the folder path
-folder_path <- "C:/Users/TomHun/OneDrive - City & Guilds/Documents/Code/Python/monitor/output"
+folder_path <- "C:/Users/TomHun/OneDrive - City & Guilds/Documents/Code/R/vibe_check/backend_x_scraper/output"
 
 # List the csv files (theres a couple we don't want to bundled in)
 csv_files <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
@@ -17,14 +19,27 @@ csv_files <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
 # Isolate the csv files
 csv_files <- csv_files[!grepl("urls", csv_files)]
 
-# Read the chosen csvs into a list based on their file names
-df_list <- map(csv_files, ~ read_csv(.x, show_col_types = FALSE))
+# Read the chosen csvs into a list based on their file names with parsing fix
+df_list <- map(
+  csv_files,
+  ~ {
+    df <- read_csv(.x, show_col_types = FALSE)
+    # Ensure Created At is always a datetime
+    if (
+      "Created At" %in% colnames(df) && !inherits(df$`Created At`, "POSIXct")
+    ) {
+      df$`Created At` <- parse_datetime(df$`Created At`)
+    }
+    return(df)
+  }
+)
 
 # name each dataframe based on file name
 names(df_list) <- basename(csv_files)
 
 # read in urls separately in case I build a cool link features
-urls_file <- file.path(folder_path, "urls.csv")
+url_path <- "C:/Users/TomHun/OneDrive - City & Guilds/Documents/Code/R/vibe_check/backend_x_scraper/output"
+urls_file <- file.path(url_path, "urls.csv")
 urls <- read_csv(file = urls_file, show_col_types = FALSE)
 
 # Join together all dataframes in list using bind_rows
@@ -42,6 +57,26 @@ combined_posts <- combined_posts |>
     everything()
   ) |>
   rename_with(tolower)
+
+########################## POST LENGTH CALCULATION ############################
+# Add post length calculations (with and without spaces)
+combined_posts <- combined_posts %>%
+  mutate(
+    # Calculate post length with spaces (standard readable length)
+    post_length = nchar(text),
+
+    # Calculate post length without spaces (sometimes useful for analysis)
+    post_length_no_spaces = nchar(gsub("\\s+", "", text)),
+
+    # Calculate post length category for potential grouping
+    post_length_category = case_when(
+      post_length < 50 ~ "very short",
+      post_length < 100 ~ "short",
+      post_length < 200 ~ "medium",
+      post_length < 280 ~ "long",
+      TRUE ~ "very long"
+    )
+  )
 
 ########################## ENGINEER FEATURES ###################################
 ########################## DATE INFO -------------------------------------------
@@ -218,39 +253,41 @@ combined_posts <- combined_posts %>%
   )
 
 ########################## ATTATCHED URL CONVERSION ############################
-# Function to expand a short URL using a HEAD request
-expand_url <- function(url) {
-  res <- try(HEAD(url, timeout(5)), silent = TRUE)
-  if (inherits(res, "try-error")) {
-    # If there's an error (e.g., timeout), return the original URL
-    return(url)
+# Enhanced URL expansion function with retries
+expand_url <- function(url, max_attempts = 3) {
+  for (i in 1:max_attempts) {
+    res <- try(HEAD(url, timeout(5)), silent = TRUE)
+    if (!inherits(res, "try-error")) return(res$url)
+    Sys.sleep(1) # Wait before retry
   }
-  # Return the final URL after following redirects
-  res$url
+  return(url) # Return original if all attempts fail
 }
 
-# # Test on a single short URL
-# short_url <- "https://t.co/347fpNaczF"
-# expanded_url <- expand_url(short_url)
-# print(expanded_url)
+# Set up parallel processing with appropriate number of workers
+available_cores <- parallel::detectCores() - 1
+available_cores <- max(1, available_cores) # Ensure at least 1 core
+plan(multisession, workers = min(available_cores, 3))
 
-# Apply the expansion function to each element of the urls list-column
+# Apply the expansion function to each element of the urls list-column in parallel
+# Using furrr_options() instead of future_options()
 combined_posts <- combined_posts %>%
   mutate(
-    expanded_urls = map(
+    expanded_urls = future_map(
       urls,
       ~ if (length(.x) == 0) {
         character(0)
       } else {
-        map_chr(.x, expand_url)
-      }
+        future_map_chr(.x, expand_url)
+      },
+      .options = furrr_options(seed = TRUE)
     )
   )
 
+# Clean up parallel workers
+plan(sequential)
+
+# Free up memory
+gc()
+
 # Write to /data
 saveRDS(combined_posts, file = here("data", "combined_posts.rds"))
-
-########################## MISC CALCULATIONS ###################################
-# these may become app features
-# rank/percentile of poster
-# rank/percentile of poster other than City and Guilds
