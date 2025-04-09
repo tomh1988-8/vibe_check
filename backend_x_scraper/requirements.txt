@@ -9,3 +9,10 @@ pandas>=2.0.0
 # Project structure and environment
 python-dotenv>=1.0.0
 pyprojroot>=0.2.0
+
+
+# sentiment analysis
+transformers
+torch 
+pandas
+huggingface_hub

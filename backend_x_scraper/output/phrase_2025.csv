@@ -1,94 +1,94 @@
-Tweet URL,Created At,Text,Tweet ID,Likes,Retweets,Replies,Hashtags,Mentions,URLs,tag
-https://x.com/Mr_Trubshawe/status/1892630177743602146,2025-02-20T17:39:32.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Eagle_Chaser, @ReticentGeniusX",,phrase_2025
-https://x.com/SouthwarkColl/status/1890446254875832504,2025-02-14T17:01:24.000Z,"Congratulations to our Digital Learning Facilitator at Southwark College, Emily Nicol, who has completed her Customer Service Practitioner Level 2 apprenticeship withCity and Guilds!#NAW2025#Apprenticeships#SouthwarkCollege#EmployeeSuccess#SkillsForLife#CityAndGuilds",Unknown,Unknown,Unknown,Unknown,"#NAW2025, #Apprenticeships, #SouthwarkCollege, #EmployeeSuccess, #SkillsForLife, #CityAndGuilds",@SouthwarkColl,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892610607699865891,2025-02-20T16:21:46.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @jazmak99",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894071521959649739,2025-02-24T17:06:55.000Z,Meet the new boss. Same as the old boss.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Learntechnique/status/1883924840006009324,2025-01-27T17:07:38.000Z,"Looking to kickstart your career in the electrical industry or upgrade your current skills?We're proud to be the UK's best electrical training company, fully accredited byCity and Guilds, EAL, Logic and NET.#ElectricalTraining#CityAndGuilds#CareerGrowth",Unknown,Unknown,Unknown,Unknown,"#ElectricalTraining, #CityAndGuilds, #CareerGrowth",@Learntechnique,,phrase_2025
-https://x.com/WigfieldFarm/status/1877088220288106954,2025-01-08T20:21:20.000Z,Dogs required for grooming!To be used for Level 2+3City and Guildsstudent training+assessments.Dogs must be over 6 months old+familiar with dog grooming salons.There's a small charge from £5 - £15. To check suitability send a pic to doggrooming@barnsley.ac.uk#DogGrooming,Unknown,Unknown,Unknown,Unknown,#DogGrooming,@WigfieldFarm,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894506238622204040,2025-02-25T21:54:20.000Z,"I shit you not, the portrait of Admiral Lord Nelson has been removed from the Palace of Westminster and replaced with….. Yvette Cooper.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895178245831827470,2025-02-27T18:24:39.000Z,The moment Ed realised just how much money there was in this grift.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894800427792703842,2025-02-26T17:23:20.000Z,Facking hell. Do it!!,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894651257521856575,2025-02-26T07:30:35.000Z,"Donald: 
+Tweet URL,Created At,Text,Tweet ID,Likes,Retweets,Replies,Hashtags,Mentions,URLs,tag,sentiment
+https://x.com/Mr_Trubshawe/status/1892630177743602146,2025-02-20 17:39:32,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Eagle_Chaser, @ReticentGeniusX",,phrase_2025,neutral
+https://x.com/SouthwarkColl/status/1890446254875832504,2025-02-14 17:01:24,"Congratulations to our Digital Learning Facilitator at Southwark College, Emily Nicol, who has completed her Customer Service Practitioner Level 2 apprenticeship withCity and Guilds!#NAW2025#Apprenticeships#SouthwarkCollege#EmployeeSuccess#SkillsForLife#CityAndGuilds",Unknown,Unknown,Unknown,Unknown,"#NAW2025, #Apprenticeships, #SouthwarkCollege, #EmployeeSuccess, #SkillsForLife, #CityAndGuilds",@SouthwarkColl,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1892610607699865891,2025-02-20 16:21:46,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @jazmak99",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1894071521959649739,2025-02-24 17:06:55,Meet the new boss. Same as the old boss.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Learntechnique/status/1883924840006009324,2025-01-27 17:07:38,"Looking to kickstart your career in the electrical industry or upgrade your current skills?We're proud to be the UK's best electrical training company, fully accredited byCity and Guilds, EAL, Logic and NET.#ElectricalTraining#CityAndGuilds#CareerGrowth",Unknown,Unknown,Unknown,Unknown,"#ElectricalTraining, #CityAndGuilds, #CareerGrowth",@Learntechnique,,phrase_2025,positive
+https://x.com/WigfieldFarm/status/1877088220288106954,2025-01-08 20:21:20,Dogs required for grooming!To be used for Level 2+3City and Guildsstudent training+assessments.Dogs must be over 6 months old+familiar with dog grooming salons.There's a small charge from £5 - £15. To check suitability send a pic to doggrooming@barnsley.ac.uk#DogGrooming,Unknown,Unknown,Unknown,Unknown,#DogGrooming,@WigfieldFarm,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1894506238622204040,2025-02-25 21:54:20,"I shit you not, the portrait of Admiral Lord Nelson has been removed from the Palace of Westminster and replaced with….. Yvette Cooper.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1895178245831827470,2025-02-27 18:24:39,The moment Ed realised just how much money there was in this grift.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1894800427792703842,2025-02-26 17:23:20,Facking hell. Do it!!,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1894651257521856575,2025-02-26 07:30:35,"Donald: 
 
-""Keir come here, put your balls on this desk""",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894863652743778489,2025-02-26T21:34:34.000Z,I see a turbine and I want it painted black,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/EAS_Scotland/status/1894307650768150620,2025-02-25T08:45:13.000Z,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892132441361371369,2025-02-19T08:41:42.000Z,She's great,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893976753518809237,2025-02-24T10:50:21.000Z,Why would you be closing it then?,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/EAS_Scotland/status/1884160790850105845,2025-01-28T08:45:13.000Z,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892608391186424182,2025-02-20T16:12:58.000Z,Eggs do not go in the fridge,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/heartnstatrust/status/1882068307202765080,2025-01-22T14:10:26.000Z,"Join us for Morant Bay Assessment Day onSaturday, January 25, 2025, at 9:30 AM,Morant Villas Hotel!Get certified in:City and Guilds: Masonry, Food & Beverage, Housekeeping, PaintingNCTVET: Customer Service, Public Area Hygiene, Classroom Development",Unknown,Unknown,Unknown,Unknown,,@heartnstatrust,,phrase_2025
-https://x.com/SeanArmstr85/status/1885949035611111911,2025-02-02T07:11:03.000Z,I find it disgusting that I have qualifications in Business Admin Level twoCity and Guildsas well as other administration qualifications and yet I still have been unable to gain work as well as this I have a children's care Lv 2 qualification,Unknown,Unknown,Unknown,Unknown,,@SeanArmstr85,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892852617656549842,2025-02-21T08:23:26.000Z,Fancy that.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893321046155026478,2025-02-22T15:24:48.000Z,These terms are acceptable,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/EAS_Scotland/status/1879087355811746097,2025-01-14T08:45:12.000Z,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025
-https://x.com/arena_training/status/1874946446652567725,2025-01-02T22:30:42.000Z,A full cohort ofcity and guilds2365 students starting Monday.  Can't wait.,Unknown,Unknown,Unknown,Unknown,,@arena_training,,phrase_2025
-https://x.com/rattlecans/status/1888920452434690332,2025-02-10T11:58:24.000Z,"My Dad was a plumber.
+""Keir come here, put your balls on this desk""",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1894863652743778489,2025-02-26 21:34:34,I see a turbine and I want it painted black,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/EAS_Scotland/status/1894307650768150620,2025-02-25 08:45:13,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1892132441361371369,2025-02-19 08:41:42,She's great,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1893976753518809237,2025-02-24 10:50:21,Why would you be closing it then?,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/EAS_Scotland/status/1884160790850105845,2025-01-28 08:45:13,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1892608391186424182,2025-02-20 16:12:58,Eggs do not go in the fridge,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/heartnstatrust/status/1882068307202765080,2025-01-22 14:10:26,"Join us for Morant Bay Assessment Day onSaturday, January 25, 2025, at 9:30 AM,Morant Villas Hotel!Get certified in:City and Guilds: Masonry, Food & Beverage, Housekeeping, PaintingNCTVET: Customer Service, Public Area Hygiene, Classroom Development",Unknown,Unknown,Unknown,Unknown,,@heartnstatrust,,phrase_2025,neutral
+https://x.com/SeanArmstr85/status/1885949035611111911,2025-02-02 07:11:03,I find it disgusting that I have qualifications in Business Admin Level twoCity and Guildsas well as other administration qualifications and yet I still have been unable to gain work as well as this I have a children's care Lv 2 qualification,Unknown,Unknown,Unknown,Unknown,,@SeanArmstr85,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1892852617656549842,2025-02-21 08:23:26,Fancy that.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1893321046155026478,2025-02-22 15:24:48,These terms are acceptable,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/EAS_Scotland/status/1879087355811746097,2025-01-14 08:45:12,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025,positive
+https://x.com/arena_training/status/1874946446652567725,2025-01-02 22:30:42,A full cohort ofcity and guilds2365 students starting Monday.  Can't wait.,Unknown,Unknown,Unknown,Unknown,,@arena_training,,phrase_2025,positive
+https://x.com/rattlecans/status/1888920452434690332,2025-02-10 11:58:24,"My Dad was a plumber.
 
-On completion of his apprenticeship,City and Guildsdid not tattoo on my Dad's forehead ""PLUMBER"" so all women would know not to be scared of him in ladies' loos",Unknown,Unknown,Unknown,Unknown,,@rattlecans,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894673332642992547,2025-02-26T08:58:18.000Z,*puts down twirly river measuring thingy*,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893006195012591942,2025-02-21T18:33:41.000Z,"Nearly been an international incident in the pub. 
+On completion of his apprenticeship,City and Guildsdid not tattoo on my Dad's forehead ""PLUMBER"" so all women would know not to be scared of him in ladies' loos",Unknown,Unknown,Unknown,Unknown,,@rattlecans,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1894673332642992547,2025-02-26 08:58:18,*puts down twirly river measuring thingy*,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1893006195012591942,2025-02-21 18:33:41,"Nearly been an international incident in the pub. 
 Mixed nationality family. 
 Grandad, says to child want some chips?
 Small child jumps up and down, says yes please chips
 Grandad comes back with. Bag of crisps.
 Honestly wars have been started on less. 
-Stop calling crisps chips",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895157344511893989,2025-02-27T17:01:35.000Z,And all the twats on here that repeatedly called it horse de wormer and repeated it like performing seals.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892878362709733729,2025-02-21T10:05:44.000Z,Brand Ambassador@AbbeydaleBeers,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @AbbeydaleBeers",,phrase_2025
-https://x.com/Wiblicks/status/1889364624245493925,2025-02-11T17:23:23.000Z,"This is one reason we at Wiblicks are pleased to donate to Plan International. I Pink can say as a LondonCity and Guildsregistered Construction Engineer, plus awarded highest level available for Auto Engineering Fabrication. Any Woman can learn to build a Home, fix a Vehicle.",Unknown,Unknown,Unknown,Unknown,,@Wiblicks,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893672545087303815,2025-02-23T14:41:32.000Z,Loved mine. Was ace.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MissDemeanor07",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894429449308742124,2025-02-25T16:49:12.000Z,You think the people of Africa are going to have fewer children because they have better nutrition@BillGatesthen I've got a bridge to sell you.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BillGates",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1891967431838425398,2025-02-18T21:46:01.000Z,Tax that till it stops!,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @VonTrippenhoff",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892141029077188949,2025-02-19T09:15:50.000Z,,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/boatbuilding/status/1876320393134547067,2025-01-06T17:30:16.000Z,"We're happy to welcome back our Sept 40-week boat building students who are have moved downstairs into the workshop and preparing for their cities andCity and Guildspieces.
+Stop calling crisps chips",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1895157344511893989,2025-02-27 17:01:35,And all the twats on here that repeatedly called it horse de wormer and repeated it like performing seals.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1892878362709733729,2025-02-21 10:05:44,Brand Ambassador@AbbeydaleBeers,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @AbbeydaleBeers",,phrase_2025,neutral
+https://x.com/Wiblicks/status/1889364624245493925,2025-02-11 17:23:23,"This is one reason we at Wiblicks are pleased to donate to Plan International. I Pink can say as a LondonCity and Guildsregistered Construction Engineer, plus awarded highest level available for Auto Engineering Fabrication. Any Woman can learn to build a Home, fix a Vehicle.",Unknown,Unknown,Unknown,Unknown,,@Wiblicks,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1893672545087303815,2025-02-23 14:41:32,Loved mine. Was ace.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MissDemeanor07",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1894429449308742124,2025-02-25 16:49:12,You think the people of Africa are going to have fewer children because they have better nutrition@BillGatesthen I've got a bridge to sell you.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BillGates",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1891967431838425398,2025-02-18 21:46:01,Tax that till it stops!,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @VonTrippenhoff",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1892141029077188949,2025-02-19 09:15:50,,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,unknown
+https://x.com/boatbuilding/status/1876320393134547067,2025-01-06 17:30:16,"We're happy to welcome back our Sept 40-week boat building students who are have moved downstairs into the workshop and preparing for their cities andCity and Guildspieces.
 
-Learn more on our website:https://boatbuildingacademy.com#cityandguilds#boatbuilding#backtoschool",Unknown,Unknown,Unknown,Unknown,"#cityandguilds, #boatbuilding, #backtoschool",@boatbuilding,https://t.co/Volz1ao2g1,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892450959386726613,2025-02-20T05:47:23.000Z,Nothing will come of it. The tin eared cunt won't listen.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/NthLincsAdultEd/status/1891522639904088411,2025-02-17T16:18:34.000Z,"FREECity and Guilds- Level 3 Award in Leadership and Management is being offered as part of 1000 Futures.
-1000 Futures is a skills program designed to empower people and businesses in North Lincolnshire.@JCPinHumber@careersysandh#northlincs#management",Unknown,Unknown,Unknown,Unknown,"#northlincs, #management","@NthLincsAdultEd, @JCPinHumber, @careersysandh",,phrase_2025
-https://x.com/Mike89494515/status/1895125293779820828,2025-02-27T14:54:14.000Z,"OrderCity and GuildsLevel 3 NVQ#diplomaonline.
+Learn more on our website:https://boatbuildingacademy.com#cityandguilds#boatbuilding#backtoschool",Unknown,Unknown,Unknown,Unknown,"#cityandguilds, #boatbuilding, #backtoschool",@boatbuilding,https://t.co/Volz1ao2g1,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1892450959386726613,2025-02-20 05:47:23,Nothing will come of it. The tin eared cunt won't listen.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/NthLincsAdultEd/status/1891522639904088411,2025-02-17 16:18:34,"FREECity and Guilds- Level 3 Award in Leadership and Management is being offered as part of 1000 Futures.
+1000 Futures is a skills program designed to empower people and businesses in North Lincolnshire.@JCPinHumber@careersysandh#northlincs#management",Unknown,Unknown,Unknown,Unknown,"#northlincs, #management","@NthLincsAdultEd, @JCPinHumber, @careersysandh",,phrase_2025,neutral
+https://x.com/Mike89494515/status/1895125293779820828,2025-02-27 14:54:14,"OrderCity and GuildsLevel 3 NVQ#diplomaonline.
 Source:https://fakingdiploma.comEmail: makediploma@outlook.com
 WhatsApp: +86 17823792342
-WeChat: +86 17823792342",Unknown,Unknown,Unknown,Unknown,#diploma,@Mike89494515,https://t.co/9x9maL7zRq,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892851246719029526,2025-02-21T08:17:59.000Z,Is it a depth gauge?,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/FilmCriticalEye/status/1890318732968235428,2025-02-14T08:34:41.000Z,"I once witnessed a classroom of adults almost smash up the room just b/c they had to learn basic algebra. 
+WeChat: +86 17823792342",Unknown,Unknown,Unknown,Unknown,#diploma,@Mike89494515,https://t.co/9x9maL7zRq,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1892851246719029526,2025-02-21 08:17:59,Is it a depth gauge?,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/FilmCriticalEye/status/1890318732968235428,2025-02-14 08:34:41,"I once witnessed a classroom of adults almost smash up the room just b/c they had to learn basic algebra. 
 
 These were men all working as  electrician's mates.
 
 We had to dumb so much down for gammon dimwits.
-Too few of them were passing theirCity and Guildsexams.",Unknown,Unknown,Unknown,Unknown,,@FilmCriticalEye,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894430505069605062,2025-02-25T16:53:23.000Z,"Oh, I was going to have more children, to see me through my old age, but now I have these bananas and good grain. I'll put my feet up instead.  Give Mrs M'botu a rest.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1891910305300553816,2025-02-18T17:59:01.000Z,I'm sure it was truly appreciated.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @AngelaRayner",,phrase_2025
-https://x.com/EAS_Scotland/status/1889231703727632681,2025-02-11T08:35:13.000Z,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894994077713654082,2025-02-27T06:12:50.000Z,"Off to see Donald today@Keir_Starmer?
+Too few of them were passing theirCity and Guildsexams.",Unknown,Unknown,Unknown,Unknown,,@FilmCriticalEye,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1894430505069605062,2025-02-25 16:53:23,"Oh, I was going to have more children, to see me through my old age, but now I have these bananas and good grain. I'll put my feet up instead.  Give Mrs M'botu a rest.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1891910305300553816,2025-02-18 17:59:01,I'm sure it was truly appreciated.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @AngelaRayner",,phrase_2025,positive
+https://x.com/EAS_Scotland/status/1889231703727632681,2025-02-11 08:35:13,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1894994077713654082,2025-02-27 06:12:50,"Off to see Donald today@Keir_Starmer?
 
-Best of luck.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Keir_Starmer",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894431271700349346,2025-02-25T16:56:26.000Z,Hand this to Keith when you have a minute love. Might jog his memory.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @NadiaWhittomeMP",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894852147973685733,2025-02-26T20:48:51.000Z,,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @GillianKearney3, @Bobbybollocks2",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893705520969572418,2025-02-23T16:52:34.000Z,"She's a cross between a Ridgeback and a Chow, with a bit of labrador. Soft as a brush and loved by anyone that meets her.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @__l_a_r_r_y__, @ContraryMar_i",,phrase_2025
-https://x.com/LBofHounslow/status/1876584660278353975,2025-01-07T11:00:22.000Z,"Love bikes & working with your hands?
+Best of luck.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Keir_Starmer",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1894431271700349346,2025-02-25 16:56:26,Hand this to Keith when you have a minute love. Might jog his memory.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @NadiaWhittomeMP",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1894852147973685733,2025-02-26 20:48:51,,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @GillianKearney3, @Bobbybollocks2",,phrase_2025,unknown
+https://x.com/Mr_Trubshawe/status/1893705520969572418,2025-02-23 16:52:34,"She's a cross between a Ridgeback and a Chow, with a bit of labrador. Soft as a brush and loved by anyone that meets her.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @__l_a_r_r_y__, @ContraryMar_i",,phrase_2025,positive
+https://x.com/LBofHounslow/status/1876584660278353975,2025-01-07 11:00:22,"Love bikes & working with your hands?
 
 A bike mechanic may be the perfect career for you.
 
 We're looking to recruit 12 people to train as bike mechanics to get:
 
 Hands-on trainingCity and GuildsLevel 2 qualification
-Toolkit to kick-start your career.https://workhounslow.co.uk/Web%20Forms/WebUser/PortalPage.aspx?Page=wh-programmes…",Unknown,Unknown,Unknown,Unknown,,@LBofHounslow,https://t.co/j8r3XjcP49,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893247819323940892,2025-02-22T10:33:49.000Z,Beavers!!,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893035811731341408,2025-02-21T20:31:23.000Z,"I posted a message without swearing in the hope that it gains traction,  but what i really, I meant to say, was:
+Toolkit to kick-start your career.https://workhounslow.co.uk/Web%20Forms/WebUser/PortalPage.aspx?Page=wh-programmes…",Unknown,Unknown,Unknown,Unknown,,@LBofHounslow,https://t.co/j8r3XjcP49,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1893247819323940892,2025-02-22 10:33:49,Beavers!!,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1893035811731341408,2025-02-21 20:31:23,"I posted a message without swearing in the hope that it gains traction,  but what i really, I meant to say, was:
 What sort of a leader burdens the children of our future with this shit? It's your fucking job to sort it!!!
-Fuck off you absolute bastard of an oxygen theiving cunt.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892617082048541059,2025-02-20T16:47:30.000Z,Egg prison and our cat doesn't care about eggs,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Jacqueline76931",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1891949737286221836,2025-02-18T20:35:42.000Z,Cheers. You know who you are. And so do I,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/JCPSurreySussex/status/1877407558777905260,2025-01-09T17:30:17.000Z,"Are you NVQ,City and Guildsor equivalent Level 3 Trained? Vehicle Technician/Mechanic wanted full time at Wilsons in Epsom
+Fuck off you absolute bastard of an oxygen theiving cunt.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1892617082048541059,2025-02-20 16:47:30,Egg prison and our cat doesn't care about eggs,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Jacqueline76931",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1891949737286221836,2025-02-18 20:35:42,Cheers. You know who you are. And so do I,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/JCPSurreySussex/status/1877407558777905260,2025-01-09 17:30:17,"Are you NVQ,City and Guildsor equivalent Level 3 Trained? Vehicle Technician/Mechanic wanted full time at Wilsons in Epsom
 
-info/apply:https://ow.ly/7QuG50UBLZH#MechanicJobs#CarJobs#EpsomJobs#SurreyJobs#DrivingJobs@wilsonsepsom",Unknown,Unknown,Unknown,Unknown,"#MechanicJobs, #CarJobs, #EpsomJobs, #SurreyJobs, #DrivingJobs","@JCPSurreySussex, @wilsonsepsom",https://t.co/8WC4QKeFvO,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893037766973264351,2025-02-21T20:39:09.000Z,"Go to speak at a school. Congratulate the results, wish them well on their future, tell them how you are going to support them in their chosen career.  
-Don't burden them with guilt you absolute cunt@Keir_Starmertwat.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Keir_Starmer",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894770259837530585,2025-02-26T15:23:27.000Z,"Battery powered boat eh?
-Maybe not this year.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/FilmCriticalEye/status/1894680402129793533,2025-02-26T09:26:23.000Z,"There's millions of these in the UK.
+info/apply:https://ow.ly/7QuG50UBLZH#MechanicJobs#CarJobs#EpsomJobs#SurreyJobs#DrivingJobs@wilsonsepsom",Unknown,Unknown,Unknown,Unknown,"#MechanicJobs, #CarJobs, #EpsomJobs, #SurreyJobs, #DrivingJobs","@JCPSurreySussex, @wilsonsepsom",https://t.co/8WC4QKeFvO,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1893037766973264351,2025-02-21 20:39:09,"Go to speak at a school. Congratulate the results, wish them well on their future, tell them how you are going to support them in their chosen career.  
+Don't burden them with guilt you absolute cunt@Keir_Starmertwat.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Keir_Starmer",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1894770259837530585,2025-02-26 15:23:27,"Battery powered boat eh?
+Maybe not this year.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/FilmCriticalEye/status/1894680402129793533,2025-02-26 09:26:23,"There's millions of these in the UK.
 Walking bellies. 
 Too thick for a proper job. 
 
@@ -98,242 +98,242 @@ They had to dumb down allCity and Guildsexams for these morons.
 
 They'd cry over basic algebra.
 
-All bluster, zero intellect.",Unknown,Unknown,Unknown,Unknown,,@FilmCriticalEye,,phrase_2025
-https://x.com/NEANIreland/status/1886433967726841955,2025-02-03T15:18:00.000Z,"Some of the@firmusenergyparticipants from the latest cohort ofCity and GuildsEnergy Awareness training receiving their certificates from our trainer Nichola MacDougall.
-Congratulations on achieving your awards!#Training#EnergyAwareness",Unknown,Unknown,Unknown,Unknown,"#Training, #EnergyAwareness","@NEANIreland, @firmusenergy",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893668509881655341,2025-02-23T14:25:30.000Z,How it started              How its going,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893034664891171175,2025-02-21T20:26:49.000Z,"Why would the leader of a country burden the children with this?
+All bluster, zero intellect.",Unknown,Unknown,Unknown,Unknown,,@FilmCriticalEye,,phrase_2025,negative
+https://x.com/NEANIreland/status/1886433967726841955,2025-02-03 15:18:00,"Some of the@firmusenergyparticipants from the latest cohort ofCity and GuildsEnergy Awareness training receiving their certificates from our trainer Nichola MacDougall.
+Congratulations on achieving your awards!#Training#EnergyAwareness",Unknown,Unknown,Unknown,Unknown,"#Training, #EnergyAwareness","@NEANIreland, @firmusenergy",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1893668509881655341,2025-02-23 14:25:30,How it started              How its going,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1893034664891171175,2025-02-21 20:26:49,"Why would the leader of a country burden the children with this?
 What sort of hideous man does this?
-Leave them alone you absolute horror.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/ukJ0N/status/1892185349348036676,2025-02-19T12:11:57.000Z,I wonder if Angela Rayner lied on her CV about hercity and guilds?,Unknown,Unknown,Unknown,Unknown,,"@ukJ0N, @SBarrettBar",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893007951792624102,2025-02-21T18:40:40.000Z,Croc bothererhttps://youtu.be/pTbMpc6sOBI?si=1QDrpopQvcNiGwGC…,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,https://t.co/3ND0JFhMKJ,phrase_2025
-https://x.com/Nescot/status/1891519227493765556,2025-02-17T16:05:01.000Z,"Join our City & Guilds Level 3 Award in Education & Training for adults 19+! Staring 5 March, this evening course offers a broad foundation in teaching principles, ideal if you’re beginning your teaching journey or enhancing existing skills. Info and applyhttps://buff.ly/4gHztln",Unknown,Unknown,Unknown,Unknown,,@Nescot,https://t.co/T7gokGAVcW,phrase_2025
-https://x.com/EAS_Scotland/status/1891770928968655355,2025-02-18T08:45:11.000Z,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892597415267479697,2025-02-20T15:29:21.000Z,Time to turn this place into a fucking glass car park.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/kevincartw50991/status/1877726110873497662,2025-01-10T14:36:05.000Z,To be honest I'm a plumber and heating engineer for forty years there work was very sub standard compared tocity and guildstrained people of this country,Unknown,Unknown,Unknown,Unknown,,@kevincartw50991,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1891950829164175598,2025-02-18T20:40:03.000Z,Haemorrhoid cream before you ask.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1891958246887288872,2025-02-18T21:09:31.000Z,"Many years of defending lying bastards and putting their defence forward,  knowing full well that it's absolute horse shit. Turns you into a tin eared cunt without the ability to see what is happening around you, and a total lack of common sense I suppose",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893604418857185499,2025-02-23T10:10:49.000Z,"Contrary has handed me this mornings breakfast in bed.
+Leave them alone you absolute horror.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/ukJ0N/status/1892185349348036676,2025-02-19 12:11:57,I wonder if Angela Rayner lied on her CV about hercity and guilds?,Unknown,Unknown,Unknown,Unknown,,"@ukJ0N, @SBarrettBar",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1893007951792624102,2025-02-21 18:40:40,Croc bothererhttps://youtu.be/pTbMpc6sOBI?si=1QDrpopQvcNiGwGC…,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,https://t.co/3ND0JFhMKJ,phrase_2025,neutral
+https://x.com/Nescot/status/1891519227493765556,2025-02-17 16:05:01,"Join our City & Guilds Level 3 Award in Education & Training for adults 19+! Staring 5 March, this evening course offers a broad foundation in teaching principles, ideal if you’re beginning your teaching journey or enhancing existing skills. Info and applyhttps://buff.ly/4gHztln",Unknown,Unknown,Unknown,Unknown,,@Nescot,https://t.co/T7gokGAVcW,phrase_2025,positive
+https://x.com/EAS_Scotland/status/1891770928968655355,2025-02-18 08:45:11,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1892597415267479697,2025-02-20 15:29:21,Time to turn this place into a fucking glass car park.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/kevincartw50991/status/1877726110873497662,2025-01-10 14:36:05,To be honest I'm a plumber and heating engineer for forty years there work was very sub standard compared tocity and guildstrained people of this country,Unknown,Unknown,Unknown,Unknown,,@kevincartw50991,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1891950829164175598,2025-02-18 20:40:03,Haemorrhoid cream before you ask.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1891958246887288872,2025-02-18 21:09:31,"Many years of defending lying bastards and putting their defence forward,  knowing full well that it's absolute horse shit. Turns you into a tin eared cunt without the ability to see what is happening around you, and a total lack of common sense I suppose",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1893604418857185499,2025-02-23 10:10:49,"Contrary has handed me this mornings breakfast in bed.
 Piccalilli on toast.
 Apparently she couldn't be arsed to put cheese on it. 
-Saffers, they're just perpetual students. Once you realise that you're fine.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892695121398755612,2025-02-20T21:57:36.000Z,I can't live life as a black cyclist  it's just wrong,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892617975733096459,2025-02-20T16:51:03.000Z,Ice cream however,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Jacqueline76931",,phrase_2025
-https://x.com/EAS_Scotland/status/1887422274560536871,2025-02-06T08:45:11.000Z,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1891875787642401126,2025-02-18T15:41:51.000Z,Janet is giving me a lift with the slabs.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894803752575529144,2025-02-26T17:36:33.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @SwollocksInfo, @DavidLammy",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1893037054797254851,2025-02-21T20:36:19.000Z,You will no longer have to ponder Montys trousers though.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @SartorialThug",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892906491037823232,2025-02-21T11:57:30.000Z,Saturday in London is going to be interesting,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1891831696695103657,2025-02-18T12:46:39.000Z,Them damn sexy saddles.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1891828441428689365,2025-02-18T12:33:43.000Z,"Tony is opening up a pilots skateboard school. When them lads can skate off the school bog roof and onto the dinner trolley, then they good to go.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1894420424525521345,2025-02-25T16:13:20.000Z,"My thoughts on Bournemouth are well documented. Our pan remains a thing of beauty, I left today's present in Asdas",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @LeilaniDowding, @ContraryMar_i",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1892299620136481136,2025-02-19T19:46:01.000Z,"The South African couple, who have been married 24 years where she stands likely to be deported, despite running a business here.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,"https://t.co/xBADioYe47, https://t.co/xBADioYe47",phrase_2025
-https://x.com/OtavioBerwanger/status/1887111897826181532,2025-02-05T12:11:51.000Z,"""Innovative and efficient clinical trial models: How to transform the way we deliver large-scale studies""
+Saffers, they're just perpetual students. Once you realise that you're fine.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1892695121398755612,2025-02-20 21:57:36,I can't live life as a black cyclist  it's just wrong,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1892617975733096459,2025-02-20 16:51:03,Ice cream however,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Jacqueline76931",,phrase_2025,neutral
+https://x.com/EAS_Scotland/status/1887422274560536871,2025-02-06 08:45:11,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1891875787642401126,2025-02-18 15:41:51,Janet is giving me a lift with the slabs.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1894803752575529144,2025-02-26 17:36:33,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @SwollocksInfo, @DavidLammy",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1893037054797254851,2025-02-21 20:36:19,You will no longer have to ponder Montys trousers though.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @SartorialThug",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1892906491037823232,2025-02-21 11:57:30,Saturday in London is going to be interesting,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1891831696695103657,2025-02-18 12:46:39,Them damn sexy saddles.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1891828441428689365,2025-02-18 12:33:43,"Tony is opening up a pilots skateboard school. When them lads can skate off the school bog roof and onto the dinner trolley, then they good to go.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1894420424525521345,2025-02-25 16:13:20,"My thoughts on Bournemouth are well documented. Our pan remains a thing of beauty, I left today's present in Asdas",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @LeilaniDowding, @ContraryMar_i",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1892299620136481136,2025-02-19 19:46:01,"The South African couple, who have been married 24 years where she stands likely to be deported, despite running a business here.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,"https://t.co/xBADioYe47, https://t.co/xBADioYe47",phrase_2025,neutral
+https://x.com/OtavioBerwanger/status/1887111897826181532,2025-02-05 12:11:51,"""Innovative and efficient clinical trial models: How to transform the way we deliver large-scale studies""
 
 Wednesday, 5 March 2025
 
 Time: 17.30 - 18.30 GMT
 Location: Lecture Theatre 200,City and GuildsBuilding
-Campus: South Kensington Campus (Imperial College London) and Live",Unknown,Unknown,Unknown,Unknown,,@OtavioBerwanger,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895431996761051513,2025-02-28T11:12:58.000Z,London did this,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/EAS_Scotland/status/1896844368092320254,2025-03-04T08:45:13.000Z,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896173054767910986,2025-03-02T12:17:40.000Z,#Art,Unknown,Unknown,Unknown,Unknown,#Art,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895890348825813051,2025-03-01T17:34:17.000Z,Wonderful.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897005293248315871,2025-03-04T19:24:41.000Z,After this Contrary and I bumped into another one of you and we had to go drink beer.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895772632215392576,2025-03-01T09:46:31.000Z,"Today's daggy breakfast in bed. 
-Home made garlic bread with leftover venison in red wine stew and grated cheese.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895431110517232006,2025-02-28T11:09:26.000Z,These people are cunts.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896822649546039605,2025-03-04T07:18:55.000Z,"Starmer has secured
+Campus: South Kensington Campus (Imperial College London) and Live",Unknown,Unknown,Unknown,Unknown,,@OtavioBerwanger,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895431996761051513,2025-02-28 11:12:58,London did this,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/EAS_Scotland/status/1896844368092320254,2025-03-04 08:45:13,Good luck to candidates sitting theirCity and GuildsEnergy Awareness exams today.,Unknown,Unknown,Unknown,Unknown,,@EAS_Scotland,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1896173054767910986,2025-03-02 12:17:40,#Art,Unknown,Unknown,Unknown,Unknown,#Art,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895890348825813051,2025-03-01 17:34:17,Wonderful.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1897005293248315871,2025-03-04 19:24:41,After this Contrary and I bumped into another one of you and we had to go drink beer.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895772632215392576,2025-03-01 09:46:31,"Today's daggy breakfast in bed. 
+Home made garlic bread with leftover venison in red wine stew and grated cheese.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895431110517232006,2025-02-28 11:09:26,These people are cunts.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896822649546039605,2025-03-04 07:18:55,"Starmer has secured
 -£30bn on illegal migrants
 -£22bn on carbon capture projects. 
 -£11.6bn on overseas climate aid.
 -£10bn on public sector pay increases.
 -£2.6bn to Ukraine 
 
-All from the taxpayer.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895513166601163156,2025-02-28T16:35:30.000Z,Brilliant,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896532176260493489,2025-03-03T12:04:41.000Z,Happy Ramadan,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895804423483638186,2025-03-01T11:52:51.000Z,It's a beautiful day out there.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896249521363144983,2025-03-02T17:21:31.000Z,"Braaibroodjies bastards. The big one was so fat we had to get some wire around the clamp to make it fit.
+All from the taxpayer.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895513166601163156,2025-02-28 16:35:30,Brilliant,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1896532176260493489,2025-03-03 12:04:41,Happy Ramadan,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1895804423483638186,2025-03-01 11:52:51,It's a beautiful day out there.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1896249521363144983,2025-03-02 17:21:31,"Braaibroodjies bastards. The big one was so fat we had to get some wire around the clamp to make it fit.
 The little one was done afterwards as its my lunch for tomorrow.  
 That, a whole chicken, 8 lamb chops and a load of sausages. 
-For the 3 of us",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896268735381676371,2025-03-02T18:37:52.000Z,Fancy thathttps://x.com/LeadingReport//LeadingReport/status/1896268542699618409…,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896571626726228285,2025-03-03T14:41:27.000Z,White crystalline minerals.https://x.com/ResisttheMS/st/ResisttheMS/status/1896570478875250816…,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896132811427655917,2025-03-02T09:37:45.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WRNWales, @sharrond62",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896651711747699145,2025-03-03T19:59:40.000Z,"Out the door lads. Boots are on the right, uniforms on the left.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895776128490750169,2025-03-01T10:00:25.000Z,A thread of people who have only watched 3 minutes of the 50 minute long meeting.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896575104739676248,2025-03-03T14:55:16.000Z,"They're 200 yards from the beach on the most beautiful of days, with a flat calm sea and not a breath of wind. These people need deporting to Stoke",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896469360019120562,2025-03-03T07:55:04.000Z,"Oh, now it suits?",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,"https://t.co/uGJIU8J1JO, https://t.co/uGJIU8J1JO",phrase_2025
-https://x.com/Mr_Trubshawe/status/1895778198484631569,2025-03-01T10:08:39.000Z,"Trump never stays in a public forum meeting for as long as this. 
-It was nothing more than a bear trap to get Zalensky in his coming down phase. It worked.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896571037594308673,2025-03-03T14:39:06.000Z,"My van looks like it has been a delivery vehicle on the Somme. I'm behind 3 vehicles that are so clean they are making my eyes hurt. They have each chosen the full programme. 
-How do these people have so much time to fuck about like this?",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896137541306482944,2025-03-02T09:56:33.000Z,"TheX.  You keep sending me the same extremely hot girls picture, my financial management is bad enough without your help and I don't want a fucking part time hotel job@X",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @X",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896172130183897405,2025-03-02T12:13:59.000Z,Beautiful today,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895534445954023755,2025-02-28T18:00:03.000Z,"I do so hope that Don and JD talked to Keith and fatty like this, when the doors were closed. 
-Also more fool Zalensky for trying it on in front of the camera.  Bet he got a right rocket afterwards",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896140896162451544,2025-03-02T10:09:52.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i, @beastinthehead3, @JohnCoo70815409",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896137944156844213,2025-03-02T09:58:09.000Z,See also Turkey teeth.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @JohnCoo70815409",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895774569153356180,2025-03-01T09:54:13.000Z,Jolyon doesn't like people having opinions that he doesn't agree with.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895475475419693445,2025-02-28T14:05:44.000Z,Pee is stored in the balls.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895510596592054347,2025-02-28T16:25:17.000Z,"My two most expensive hobbies have rinsed my pockets this week.  Does anyone have suggestions for another cash sucking pastime, that I don't spend much time on?",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895520791497982162,2025-02-28T17:05:48.000Z,"*LATEST*
+For the 3 of us",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896268735381676371,2025-03-02 18:37:52,Fancy thathttps://x.com/LeadingReport//LeadingReport/status/1896268542699618409…,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1896571626726228285,2025-03-03 14:41:27,White crystalline minerals.https://x.com/ResisttheMS/st/ResisttheMS/status/1896570478875250816…,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1896132811427655917,2025-03-02 09:37:45,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WRNWales, @sharrond62",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1896651711747699145,2025-03-03 19:59:40,"Out the door lads. Boots are on the right, uniforms on the left.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895776128490750169,2025-03-01 10:00:25,A thread of people who have only watched 3 minutes of the 50 minute long meeting.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1896575104739676248,2025-03-03 14:55:16,"They're 200 yards from the beach on the most beautiful of days, with a flat calm sea and not a breath of wind. These people need deporting to Stoke",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896469360019120562,2025-03-03 07:55:04,"Oh, now it suits?",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,"https://t.co/uGJIU8J1JO, https://t.co/uGJIU8J1JO",phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895778198484631569,2025-03-01 10:08:39,"Trump never stays in a public forum meeting for as long as this. 
+It was nothing more than a bear trap to get Zalensky in his coming down phase. It worked.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896571037594308673,2025-03-03 14:39:06,"My van looks like it has been a delivery vehicle on the Somme. I'm behind 3 vehicles that are so clean they are making my eyes hurt. They have each chosen the full programme. 
+How do these people have so much time to fuck about like this?",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896137541306482944,2025-03-02 09:56:33,"TheX.  You keep sending me the same extremely hot girls picture, my financial management is bad enough without your help and I don't want a fucking part time hotel job@X",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @X",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896172130183897405,2025-03-02 12:13:59,Beautiful today,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1895534445954023755,2025-02-28 18:00:03,"I do so hope that Don and JD talked to Keith and fatty like this, when the doors were closed. 
+Also more fool Zalensky for trying it on in front of the camera.  Bet he got a right rocket afterwards",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1896140896162451544,2025-03-02 10:09:52,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i, @beastinthehead3, @JohnCoo70815409",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1896137944156844213,2025-03-02 09:58:09,See also Turkey teeth.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @JohnCoo70815409",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895774569153356180,2025-03-01 09:54:13,Jolyon doesn't like people having opinions that he doesn't agree with.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1895475475419693445,2025-02-28 14:05:44,Pee is stored in the balls.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895510596592054347,2025-02-28 16:25:17,"My two most expensive hobbies have rinsed my pockets this week.  Does anyone have suggestions for another cash sucking pastime, that I don't spend much time on?",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1895520791497982162,2025-02-28 17:05:48,"*LATEST*
 Decision has been reversed. She can stay!!
-Thank fuck for some common sense",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896131531254710308,2025-03-02T09:32:40.000Z,"Off you pop to Aldershot, go collect your guns your children are just the right age to be cannon fodder.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MarshSongs, @coldplay, @ZelenskyyUa",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896130433240457276,2025-03-02T09:28:18.000Z,"Good morning to everyone on TheX, except those that have black window frames and grey plastic cladding.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896178277641044324,2025-03-02T12:38:25.000Z,"These people are amazing and all the NPCs clap like performing seals. It's got fuck all to do with lies from Russia or anywhere else. 
+Thank fuck for some common sense",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896131531254710308,2025-03-02 09:32:40,"Off you pop to Aldershot, go collect your guns your children are just the right age to be cannon fodder.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MarshSongs, @coldplay, @ZelenskyyUa",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896130433240457276,2025-03-02 09:28:18,"Good morning to everyone on TheX, except those that have black window frames and grey plastic cladding.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1896178277641044324,2025-03-02 12:38:25,"These people are amazing and all the NPCs clap like performing seals. It's got fuck all to do with lies from Russia or anywhere else. 
 It's the perpetual meat grinder of working class children, to line the pockets of grey skinned businessmen, that we mourn
-Fuck off with this shit",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895768009719103700,2025-03-01T09:28:09.000Z,Today we are going to a reclamation yard. Contrary is having her arms fastened to her sides. I figure if she is unable to pick something up then we won't have to buy it.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895539271035187630,2025-02-28T18:19:14.000Z,I think it was an 'unsympathetic' at the home office,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973",,phrase_2025
-https://x.com/SEFFLisnaskea/status/1897073825210396894,2025-03-04T23:57:00.000Z,"(5)
-The family had originally lived in the Killicomaine area of Portadown where Roger grew up and attended the local Junior High School and then the Portadown Technical College. He also attended Craigavon Training Centre and obtained aCity and Guildsin a number of skills.",Unknown,Unknown,Unknown,Unknown,,"@SEFFLisnaskea, @SEFFLisnaskea",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896175705882579045,2025-03-02T12:28:12.000Z,Same energy,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @provemewrong411",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895235469442719837,2025-02-27T22:12:02.000Z,Don't be dicks. It's early yet.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896138373066277024,2025-03-02T09:59:51.000Z,"I'm going to invade the Isle of Wight this year, them bastards have had it too good for too long now.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896658966975013072,2025-03-03T20:28:30.000Z,@yougov,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @laidlaw_bruce, @Squiffy2, @FarRightSkip, @yougov",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896650182101741777,2025-03-03T19:53:36.000Z,Some of us already know where to find themhttps://charlesmchardybutchers.co.uk/product/super-pie/…,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i",https://t.co/YGcVDnoOyE,phrase_2025
-https://x.com/TWEETSBYOLORI/status/1895919446319120719,2025-03-01T19:29:55.000Z,"If you need NVQ 3, come dm.City and guildsis recommended by NHS especially if you’re looking towards NHS. There’s no where you take their certificate and they will ask you to do another.",Unknown,Unknown,Unknown,Unknown,,"@TWEETSBYOLORI, @Peeeeee_jay",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896139403158061176,2025-03-02T10:03:56.000Z,I will beg to differ that man,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @JohnCoo70815409",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1896145936692424885,2025-03-02T10:29:54.000Z,"Sun is out. This can only mean one thing.
-Braaibroodjies!!",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1895882266410393963,2025-03-01T17:02:10.000Z,It didn't.  I've now got two gargoyles I didn't start the day with,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Tameside_Smurf",,phrase_2025
-https://x.com/Innocen27223981/status/1896647557910266261,2025-03-03T19:43:10.000Z,I need regarding on how to get global talent visa endorsement. I have two masters degrees here in uk plusCity and guildslevel 2 and 3 electrical installation and inspection and testing.,Unknown,Unknown,Unknown,Unknown,,"@Innocen27223981, @Shobayo10, @misteryomi",,phrase_2025
-https://x.com/Kent_cc/status/1898061896072167548,2025-03-07T17:23:14.000Z,"He started in September 2024 studying for aCity and GuildsLevel 1 Introduction to Hospitality and has thrived there. 
+Fuck off with this shit",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1895768009719103700,2025-03-01 09:28:09,Today we are going to a reclamation yard. Contrary is having her arms fastened to her sides. I figure if she is unable to pick something up then we won't have to buy it.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895539271035187630,2025-02-28 18:19:14,I think it was an 'unsympathetic' at the home office,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973",,phrase_2025,negative
+https://x.com/SEFFLisnaskea/status/1897073825210396894,2025-03-04 23:57:00,"(5)
+The family had originally lived in the Killicomaine area of Portadown where Roger grew up and attended the local Junior High School and then the Portadown Technical College. He also attended Craigavon Training Centre and obtained aCity and Guildsin a number of skills.",Unknown,Unknown,Unknown,Unknown,,"@SEFFLisnaskea, @SEFFLisnaskea",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1896175705882579045,2025-03-02 12:28:12,Same energy,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @provemewrong411",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1895235469442719837,2025-02-27 22:12:02,Don't be dicks. It's early yet.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896138373066277024,2025-03-02 09:59:51,"I'm going to invade the Isle of Wight this year, them bastards have had it too good for too long now.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896658966975013072,2025-03-03 20:28:30,@yougov,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @laidlaw_bruce, @Squiffy2, @FarRightSkip, @yougov",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1896650182101741777,2025-03-03 19:53:36,Some of us already know where to find themhttps://charlesmchardybutchers.co.uk/product/super-pie/…,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i",https://t.co/YGcVDnoOyE,phrase_2025,neutral
+https://x.com/TWEETSBYOLORI/status/1895919446319120719,2025-03-01 19:29:55,"If you need NVQ 3, come dm.City and guildsis recommended by NHS especially if you’re looking towards NHS. There’s no where you take their certificate and they will ask you to do another.",Unknown,Unknown,Unknown,Unknown,,"@TWEETSBYOLORI, @Peeeeee_jay",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1896139403158061176,2025-03-02 10:03:56,I will beg to differ that man,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @JohnCoo70815409",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1896145936692424885,2025-03-02 10:29:54,"Sun is out. This can only mean one thing.
+Braaibroodjies!!",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1895882266410393963,2025-03-01 17:02:10,It didn't.  I've now got two gargoyles I didn't start the day with,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Tameside_Smurf",,phrase_2025,negative
+https://x.com/Innocen27223981/status/1896647557910266261,2025-03-03 19:43:10,I need regarding on how to get global talent visa endorsement. I have two masters degrees here in uk plusCity and guildslevel 2 and 3 electrical installation and inspection and testing.,Unknown,Unknown,Unknown,Unknown,,"@Innocen27223981, @Shobayo10, @misteryomi",,phrase_2025,neutral
+https://x.com/Kent_cc/status/1898061896072167548,2025-03-07 17:23:14,"He started in September 2024 studying for aCity and GuildsLevel 1 Introduction to Hospitality and has thrived there. 
 
 As part of the course, Archie had a work placement in a local pub.
 
-Find out more about Archie's story here:https://loom.ly/pCSgV4Q",Unknown,Unknown,Unknown,Unknown,,"@Kent_cc, @Kent_cc",https://t.co/yM0yoh2EcJ,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897995355595112537,2025-03-07T12:58:50.000Z,"I know fashions change, but these 4 beauties cost me £120. Yes I've got to strip one and the others need a good clean, but they're probably 60+ years old and solid as anything. 
-My B&Q units will be long gone before these.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898019934904394115,2025-03-07T14:36:30.000Z,"But you're happy to mount a campaign to stop people going in the shop? 
+Find out more about Archie's story here:https://loom.ly/pCSgV4Q",Unknown,Unknown,Unknown,Unknown,,"@Kent_cc, @Kent_cc",https://t.co/yM0yoh2EcJ,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1897995355595112537,2025-03-07 12:58:50,"I know fashions change, but these 4 beauties cost me £120. Yes I've got to strip one and the others need a good clean, but they're probably 60+ years old and solid as anything. 
+My B&Q units will be long gone before these.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1898019934904394115,2025-03-07 14:36:30,"But you're happy to mount a campaign to stop people going in the shop? 
 
-Riiiiiiiight.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @J4m35c4mpb3ll, @JackMcL14211778",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897939786704228686,2025-03-07T09:18:01.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @richardintheuk",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898283175836569960,2025-03-08T08:02:32.000Z,Phillip Larkin,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898284650025398475,2025-03-08T08:08:23.000Z,Good morning,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @emeraldthiele",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897937178782498904,2025-03-07T09:07:40.000Z,I'll start here,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Mr_Trubshawe",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898452303562051916,2025-03-08T19:14:35.000Z,Next leader,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BurnsideWasTosh",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897972645036974459,2025-03-07T11:28:35.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @back_badger",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898826916246769680,2025-03-09T20:03:09.000Z,"And that was Charles the Third, by the Grace of God of the United Kingdom of Great Britain and Northern Ireland and of His other Realms and Territories, King, Head of the Commonwealth, Defender of the Faith…",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897949201222308014,2025-03-07T09:55:26.000Z,"If it's got a QR code on the table then I'm going to the next restaurant. I want an enjoyable experience, not a factory.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898989149132038611,2025-03-10T06:47:49.000Z,"UK Foreign Secretary,@DavidLammy, gave £50 million of your taxpayer money to fund a terrorist regime that is now massacring Christians in Syria.
+Riiiiiiiight.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @J4m35c4mpb3ll, @JackMcL14211778",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897939786704228686,2025-03-07 09:18:01,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @richardintheuk",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898283175836569960,2025-03-08 08:02:32,Phillip Larkin,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898284650025398475,2025-03-08 08:08:23,Good morning,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @emeraldthiele",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1897937178782498904,2025-03-07 09:07:40,I'll start here,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Mr_Trubshawe",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898452303562051916,2025-03-08 19:14:35,Next leader,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BurnsideWasTosh",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897972645036974459,2025-03-07 11:28:35,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @back_badger",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898826916246769680,2025-03-09 20:03:09,"And that was Charles the Third, by the Grace of God of the United Kingdom of Great Britain and Northern Ireland and of His other Realms and Territories, King, Head of the Commonwealth, Defender of the Faith…",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897949201222308014,2025-03-07 09:55:26,"If it's got a QR code on the table then I'm going to the next restaurant. I want an enjoyable experience, not a factory.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898989149132038611,2025-03-10 06:47:49,"UK Foreign Secretary,@DavidLammy, gave £50 million of your taxpayer money to fund a terrorist regime that is now massacring Christians in Syria.
 
 It is inescapable that there is a intifada happening against Christians in Africa and the Middle East.
 
-Just last month 70 Christians",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897548928536485941,2025-03-06T07:24:53.000Z,This has appeared in the house.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/WCNeedlemakers/status/1897308411290902928,2025-03-05T15:29:10.000Z,Our Master with David Hewson (left) winner of the NeedlemakersCity and GuildsPrize and MCGI recipient. Also from Hopwood College David Mills MCGI recipient. Congratulations to both.,Unknown,Unknown,Unknown,Unknown,,@WCNeedlemakers,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897777377117094209,2025-03-06T22:32:40.000Z,'Invincibily stupid' David Starkey.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897936324214034592,2025-03-07T09:04:16.000Z,"Contrary going on a zoom meeting 
+Just last month 70 Christians",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897548928536485941,2025-03-06 07:24:53,This has appeared in the house.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/WCNeedlemakers/status/1897308411290902928,2025-03-05 15:29:10,Our Master with David Hewson (left) winner of the NeedlemakersCity and GuildsPrize and MCGI recipient. Also from Hopwood College David Mills MCGI recipient. Congratulations to both.,Unknown,Unknown,Unknown,Unknown,,@WCNeedlemakers,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1897777377117094209,2025-03-06 22:32:40,'Invincibily stupid' David Starkey.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897936324214034592,2025-03-07 09:04:16,"Contrary going on a zoom meeting 
 'Which trousers do I wear?'
 
 Me: 'Reginald Bosanquet read the news without wearing any, you're in good company. '
 
 I'm now going to have to explain Reginald Bosanquet. 
 
-This could be take some time",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898088359215743316,2025-03-07T19:08:24.000Z,We can only apologise,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897939401231008154,2025-03-07T09:16:29.000Z,See also,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Mr_Trubshawe, @beastinthehead3",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898085579666964979,2025-03-07T18:57:21.000Z,"84 year old pal rowing us out to his mooring. 
+This could be take some time",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898088359215743316,2025-03-07 19:08:24,We can only apologise,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897939401231008154,2025-03-07 09:16:29,See also,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Mr_Trubshawe, @beastinthehead3",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898085579666964979,2025-03-07 18:57:21,"84 year old pal rowing us out to his mooring. 
 Sorry I was late Trubs, only I had left my lifejacket at my sons, so I had to go back to get it.
 He gives me a right bollocking if I don't wear it. He's right mind, when you get past 80, you're not as fit as you once were. 
-Legend",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897967298977099862,2025-03-07T11:07:21.000Z,Same vibe,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @maxtempers",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897548227852796093,2025-03-06T07:22:06.000Z,Go on. You know you want to,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @omotforest",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898129076683948388,2025-03-07T21:50:12.000Z,"Sit on a boat. Doesn't matter who's boat it is, just find a quiet place on it and drink something of your choice whilst you are alone with your thoughts",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @LeAdderNoire",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897217878866510323,2025-03-05T09:29:25.000Z,"It’s no longer down with Trump, it’s Fuck Trump!",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897237472679223661,2025-03-05T10:47:17.000Z,Portland harbour,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @stephabouais",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897231961590284489,2025-03-05T10:25:23.000Z,Who doesn't love a good shackle?,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897250833357791589,2025-03-05T11:40:22.000Z,This is funhttps://doge-tracker.com/wtf,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,https://t.co/RAeoyBaJek,phrase_2025
-https://x.com/Keja2020/status/1898462278925648051,2025-03-08T19:54:13.000Z,"Please , is there anyone doing their level 4 NVQ in health and social care withCity and Guilds?",Unknown,Unknown,Unknown,Unknown,,@Keja2020,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897243512854487335,2025-03-05T11:11:17.000Z,Well there they are. Tremendous,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @janusvh2",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899181833180365046,2025-03-10T19:33:28.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Storrscommoner",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898410430822764932,2025-03-08T16:28:12.000Z,Games,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897233149308101027,2025-03-05T10:30:06.000Z,"Contrary had to produce a certificate of English speaking and writing before she was granted a visa. 
-Two rules.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898409910531952957,2025-03-08T16:26:08.000Z,You leave her alone for two minutes,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898837695029539089,2025-03-09T20:45:59.000Z,Make it make sense,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898323490740015572,2025-03-08T10:42:43.000Z,Obviously a film fan,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897367139574800498,2025-03-05T19:22:32.000Z,Any politician that doesn't want this for their own country is on the take.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897232088858026313,2025-03-05T10:25:53.000Z,Tide's in.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898429367409336725,2025-03-08T17:43:26.000Z,Please tell me why Westminster Bridge is closed? He's hardly over the top of the carriageway,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898988214934807006,2025-03-10T06:44:06.000Z,I hear you're into Genocide funding now David?,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @DavidLammy",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898741382488936567,2025-03-09T14:23:17.000Z,"I have successfully antifouled my arms,  head and glasses this morning, I can move on to having a beer now",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897996710149865917,2025-03-07T13:04:13.000Z,Of course we did,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @TRUMP_ARMY_",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899201896310558758,2025-03-10T20:53:12.000Z,Rachel Reeves was today years old when she found out about the Laffer Curve,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898454094836048064,2025-03-08T19:21:42.000Z,"It would be but the max allowance for a manual is £29,000 and the spanner is waving a 2000s key",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @melindiscott",,phrase_2025
-https://x.com/wacky_woo2/status/1898003304451346665,2025-03-07T13:30:25.000Z,I agree my YP didn’t cope well in a mainstream setting and thus managed to do aCity and Guildswhich was equivalent to a 1st yr apprenticeship in mechanics. However Nutella John would say mainstream is working !!!!,Unknown,Unknown,Unknown,Unknown,,"@wacky_woo2, @RussellFindlay1, @ScotTories",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899178538148004055,2025-03-10T19:20:23.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @UpdateNews724",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897202875996233749,2025-03-05T08:29:48.000Z,"Anyway enough misery. TSD has a new bed and I got a new shackle. 
-Sausages for breakfast lads.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898836078037225915,2025-03-09T20:39:34.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @_thunderousthum, @BigJed_one",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897952929077690548,2025-03-07T10:10:15.000Z,You've just brought a plate and that's it?,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898128132663660679,2025-03-07T21:46:26.000Z,We wuz wizadds an sheeeit,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898281593619574939,2025-03-08T07:56:14.000Z,"I said months ago it was time for Farage to stand aside. But his ego wouldn't allow it.
+Legend",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897967298977099862,2025-03-07 11:07:21,Same vibe,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @maxtempers",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897548227852796093,2025-03-06 07:22:06,Go on. You know you want to,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @omotforest",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898129076683948388,2025-03-07 21:50:12,"Sit on a boat. Doesn't matter who's boat it is, just find a quiet place on it and drink something of your choice whilst you are alone with your thoughts",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @LeAdderNoire",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897217878866510323,2025-03-05 09:29:25,"It’s no longer down with Trump, it’s Fuck Trump!",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897237472679223661,2025-03-05 10:47:17,Portland harbour,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @stephabouais",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897231961590284489,2025-03-05 10:25:23,Who doesn't love a good shackle?,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1897250833357791589,2025-03-05 11:40:22,This is funhttps://doge-tracker.com/wtf,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,https://t.co/RAeoyBaJek,phrase_2025,positive
+https://x.com/Keja2020/status/1898462278925648051,2025-03-08 19:54:13,"Please , is there anyone doing their level 4 NVQ in health and social care withCity and Guilds?",Unknown,Unknown,Unknown,Unknown,,@Keja2020,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897243512854487335,2025-03-05 11:11:17,Well there they are. Tremendous,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @janusvh2",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1899181833180365046,2025-03-10 19:33:28,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Storrscommoner",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898410430822764932,2025-03-08 16:28:12,Games,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897233149308101027,2025-03-05 10:30:06,"Contrary had to produce a certificate of English speaking and writing before she was granted a visa. 
+Two rules.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898409910531952957,2025-03-08 16:26:08,You leave her alone for two minutes,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898837695029539089,2025-03-09 20:45:59,Make it make sense,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898323490740015572,2025-03-08 10:42:43,Obviously a film fan,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897367139574800498,2025-03-05 19:22:32,Any politician that doesn't want this for their own country is on the take.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897232088858026313,2025-03-05 10:25:53,Tide's in.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898429367409336725,2025-03-08 17:43:26,Please tell me why Westminster Bridge is closed? He's hardly over the top of the carriageway,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1898988214934807006,2025-03-10 06:44:06,I hear you're into Genocide funding now David?,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @DavidLammy",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898741382488936567,2025-03-09 14:23:17,"I have successfully antifouled my arms,  head and glasses this morning, I can move on to having a beer now",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1897996710149865917,2025-03-07 13:04:13,Of course we did,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @TRUMP_ARMY_",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1899201896310558758,2025-03-10 20:53:12,Rachel Reeves was today years old when she found out about the Laffer Curve,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898454094836048064,2025-03-08 19:21:42,"It would be but the max allowance for a manual is £29,000 and the spanner is waving a 2000s key",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @melindiscott",,phrase_2025,neutral
+https://x.com/wacky_woo2/status/1898003304451346665,2025-03-07 13:30:25,I agree my YP didn’t cope well in a mainstream setting and thus managed to do aCity and Guildswhich was equivalent to a 1st yr apprenticeship in mechanics. However Nutella John would say mainstream is working !!!!,Unknown,Unknown,Unknown,Unknown,,"@wacky_woo2, @RussellFindlay1, @ScotTories",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1899178538148004055,2025-03-10 19:20:23,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @UpdateNews724",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897202875996233749,2025-03-05 08:29:48,"Anyway enough misery. TSD has a new bed and I got a new shackle. 
+Sausages for breakfast lads.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898836078037225915,2025-03-09 20:39:34,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @_thunderousthum, @BigJed_one",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897952929077690548,2025-03-07 10:10:15,You've just brought a plate and that's it?,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898128132663660679,2025-03-07 21:46:26,We wuz wizadds an sheeeit,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898281593619574939,2025-03-08 07:56:14,"I said months ago it was time for Farage to stand aside. But his ego wouldn't allow it.
 Oh well, back to the communist government and a Muslim King.
-The light was nice whilst we had it shine in the tunnel.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897240015396303146,2025-03-05T10:57:23.000Z,"This is all there is on the subject of TV.
-Shameful. No noncery, nor pissed up Windy Miller, nothing",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Ersatz_F",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897194183687127528,2025-03-05T07:55:16.000Z,Did you post it on here? Thought not.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898760300628717645,2025-03-09T15:38:27.000Z,"Pub in the centre of town was complained about anonymously, re noise. 
+The light was nice whilst we had it shine in the tunnel.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897240015396303146,2025-03-05 10:57:23,"This is all there is on the subject of TV.
+Shameful. No noncery, nor pissed up Windy Miller, nothing",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Ersatz_F",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897194183687127528,2025-03-05 07:55:16,Did you post it on here? Thought not.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1898760300628717645,2025-03-09 15:38:27,"Pub in the centre of town was complained about anonymously, re noise. 
 One complaint. 
 Live music restricted, decibel meter checks mandated
  £20,000 in legal fees. 
 Council changes their mind. 
-No recompense",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Borederforce, @griffitha",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898450287326859446,2025-03-08T19:06:34.000Z,Absolutely this.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister, @TheNelsonAgain",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897938739088834942,2025-03-07T09:13:52.000Z,Reggie. Broadcaster. Songsmith. Crooner. Proper up of bars.  Legend.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3","https://t.co/ylJbDmJgCc, https://t.co/ylJbDmJgCc",phrase_2025
-https://x.com/Mr_Trubshawe/status/1897210796930949612,2025-03-05T09:01:17.000Z,"Lovely.  We've picked up a spot for Turbot in the bay. Seems to produce every time.  Moorings don't open till the end of the month,  be pissing it down then.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @William62569896",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898294788396315131,2025-03-08T08:48:40.000Z,"1. Is Philippines 
+No recompense",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Borederforce, @griffitha",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1898450287326859446,2025-03-08 19:06:34,Absolutely this.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister, @TheNelsonAgain",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897938739088834942,2025-03-07 09:13:52,Reggie. Broadcaster. Songsmith. Crooner. Proper up of bars.  Legend.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3","https://t.co/ylJbDmJgCc, https://t.co/ylJbDmJgCc",phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1897210796930949612,2025-03-05 09:01:17,"Lovely.  We've picked up a spot for Turbot in the bay. Seems to produce every time.  Moorings don't open till the end of the month,  be pissing it down then.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @William62569896",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1898294788396315131,2025-03-08 08:48:40,"1. Is Philippines 
 2. Is Elandsbaai South Africa 
 3. Is Namaqualand South Africa 
-4. Is Malta and that is me behind the fish",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @emeraldthiele",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897324742371348709,2025-03-05T16:34:03.000Z,South Africans are the worst tweet thieves on this app.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898831551149810071,2025-03-09T20:21:35.000Z,"They loved the ginsters, but had to hide it during the ill fated Cornwall tour of 86.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @engines_gundogs",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897971104636907565,2025-03-07T11:22:28.000Z,"Navvies. Buy a suit with their wages on Friday, get pissed up all through the weekend. Turn up to dig the hole in it Monday.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898128449899798649,2025-03-07T21:47:42.000Z,Facking hell. Brighton to Swinton,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1898300406146425343,2025-03-08T09:11:00.000Z,Just when you thought Labour couldn't possibly make any more mistakes.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @HarrietHarman",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1897993317708652792,2025-03-07T12:50:44.000Z,Unbelievable,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MiloShropshire, @s8mb",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899200746823848381,2025-03-10T20:48:38.000Z,"I am in favour of both. Tremendous battles, despite@SartorialThug's usual no weapons rule, exceptions have to be made.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @back_badger, @FlavellG, @Olympics, @SartorialThug",,phrase_2025
-https://x.com/GuillermoRein/status/1899733743717240916,2025-03-12T08:06:34.000Z,We have just put up a new poster in the hallway of theCity and GuildsBuilding. It is about wildfire models and looking for their agreements and disagreements. Take a look next time you pass by!,Unknown,Unknown,Unknown,Unknown,,@GuillermoRein,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899484821585301887,2025-03-11T15:37:26.000Z,"I'll do it for £60K. I'll be busy for a month, then take the rest of the year off. 
-Maybe I'll check the reports on a Tuesday, but there won't be much to read.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899444966620909652,2025-03-11T12:59:04.000Z,#TreeClub,Unknown,Unknown,Unknown,Unknown,#TreeClub,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899445007590785134,2025-03-11T12:59:14.000Z,Harvest time,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899554771201302728,2025-03-11T20:15:24.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @reformparty_uk",,phrase_2025
-https://x.com/LNwire/status/1899787163778068791,2025-03-12T11:38:50.000Z,New research from City & Guilds finds a lack of support for nearly one in three neurodiverse employees - Learning Newshttps://learningnews.com/news/city-and-guilds/2025/new-research-from-city-guilds-finds-a-lack-of-support-for-nearly-one-in-three-neurodiverse-employee…@cityandguilds,Unknown,Unknown,Unknown,Unknown,,"@LNwire, @cityandguilds","https://t.co/ugiswQghjY, https://t.co/ugiswQghjY, https://t.co/ugiswQghjY",phrase_2025
-https://x.com/Mr_Trubshawe/status/1901720500939698270,2025-03-17T19:41:14.000Z,Reforms performance behaving like an ACME anvil in a roadrunner cartoon.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899781752026988764,2025-03-12T11:17:20.000Z,Crab sandwiches lads.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899566340727308580,2025-03-11T21:01:22.000Z,Fancy that,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901755959317307599,2025-03-17T22:02:08.000Z,Don't go marrying forriners people. Parrhesia dossent like it.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899356099687366750,2025-03-11T07:05:57.000Z,I support the thing that hopefully gets me laid.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @SartorialThug",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899443238731231617,2025-03-11T12:52:12.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i, @VonBarkenTwins, @MercerCait",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901719057205772482,2025-03-17T19:35:30.000Z,All hail the kebab fairy,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1899782213618614370,2025-03-12T11:19:10.000Z,Stone cold dead.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Kent_cc/status/1899805146797731905,2025-03-12T12:50:18.000Z,He has thrived since studying for aCity and GuildsLevel 1 Introduction to Hospitality and even took up a work placement at a local pub.,Unknown,Unknown,Unknown,Unknown,,"@Kent_cc, @Kent_cc",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903816925618061429,2025-03-23T14:31:40.000Z,Oh absolutely,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Br_____rd, @MiloShropshire",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904281395108913405,2025-03-24T21:17:19.000Z,Won't be long before the small business is sending their vans to the block (to use your working class parlance) because there won't be anything left under 'your' Government,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902371601774981246,2025-03-19T14:48:28.000Z,Have at these,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @HBrubanter",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902827722461647218,2025-03-20T21:00:56.000Z,It comes as no surprise really. The signs were there,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BurnsideWasTosh",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903369803865194864,2025-03-22T08:54:58.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @TrevorDistance3",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903711464990388418,2025-03-23T07:32:37.000Z,I do hope he plays it like this,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MercerCait, @LordBriRobert1",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904070334120149331,2025-03-24T07:18:38.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Ersatz_F",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904235631208698089,2025-03-24T18:15:28.000Z,"Pretty sure you can have a gas bottle supply inside the house. Uk? 
-I think it's 2 x less than 15kg",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @RyanNoKneel",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903116518474289488,2025-03-21T16:08:30.000Z,Too slow,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BlasterCommon",,phrase_2025
-https://x.com/Diana4641429095/status/1903839505347453374,2025-03-23T16:01:24.000Z,"3 yearscity and guildsmy husband had, two years before as tea boy on a site and odd jobs . The workmanship now on buildings are shoddy .",Unknown,Unknown,Unknown,Unknown,,@Diana4641429095,,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904069890903871958,2025-03-24T07:16:52.000Z,"Draw your own head on here, but you have to keep the moustache",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MysteriosoX",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903384278613836238,2025-03-22T09:52:29.000Z,That's brilliant.  However the also rans are great too,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MissDemeanor07",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902651935531913603,2025-03-20T09:22:25.000Z,Keep going I'm nearly there.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @JeremyCordite, @thesundaysport, @Keir_Starmer",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903455147574870390,2025-03-22T14:34:06.000Z,We could have them.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @IanSlaterPhoto1",,phrase_2025
-https://x.com/PJMeek10/status/1903902912331342067,2025-03-23T20:13:21.000Z,I've heard thatcity and guildsare now not recognised if you need to do a supervisor course..,Unknown,Unknown,Unknown,Unknown,,"@PJMeek10, @TrevorSimp22959, @KingBobIIV, @RachelReevesMP",,phrase_2025
-https://x.com/TykeToobin/status/1903915036847792475,2025-03-23T21:01:32.000Z,"City and Guildsand NVQ trained mech engineer here. Half the recruitment people don't even know what it is. You make hammers?In my second year we had to do electrics, electronics, welding and machining on several types of machines. No tickets, no money. New tickets, new money.",Unknown,Unknown,Unknown,Unknown,,"@TykeToobin, @PJMeek10, @TrevorSimp22959",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902968676808016182,2025-03-21T06:21:02.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Br_____rd",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901287259581669685,2025-03-16T14:59:41.000Z,Yes. Fisherman delivers it. £10 a kilo caught on the day. Brilliant service,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @StupidNeilAgain",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902251598945948086,2025-03-19T06:51:37.000Z,"Dear Tessie,
+4. Is Malta and that is me behind the fish",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @emeraldthiele",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897324742371348709,2025-03-05 16:34:03,South Africans are the worst tweet thieves on this app.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1898831551149810071,2025-03-09 20:21:35,"They loved the ginsters, but had to hide it during the ill fated Cornwall tour of 86.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @engines_gundogs",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1897971104636907565,2025-03-07 11:22:28,"Navvies. Buy a suit with their wages on Friday, get pissed up all through the weekend. Turn up to dig the hole in it Monday.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1898128449899798649,2025-03-07 21:47:42,Facking hell. Brighton to Swinton,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1898300406146425343,2025-03-08 09:11:00,Just when you thought Labour couldn't possibly make any more mistakes.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @HarrietHarman",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1897993317708652792,2025-03-07 12:50:44,Unbelievable,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MiloShropshire, @s8mb",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1899200746823848381,2025-03-10 20:48:38,"I am in favour of both. Tremendous battles, despite@SartorialThug's usual no weapons rule, exceptions have to be made.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @back_badger, @FlavellG, @Olympics, @SartorialThug",,phrase_2025,positive
+https://x.com/GuillermoRein/status/1899733743717240916,2025-03-12 08:06:34,We have just put up a new poster in the hallway of theCity and GuildsBuilding. It is about wildfire models and looking for their agreements and disagreements. Take a look next time you pass by!,Unknown,Unknown,Unknown,Unknown,,@GuillermoRein,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1899484821585301887,2025-03-11 15:37:26,"I'll do it for £60K. I'll be busy for a month, then take the rest of the year off. 
+Maybe I'll check the reports on a Tuesday, but there won't be much to read.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1899444966620909652,2025-03-11 12:59:04,#TreeClub,Unknown,Unknown,Unknown,Unknown,#TreeClub,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1899445007590785134,2025-03-11 12:59:14,Harvest time,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1899554771201302728,2025-03-11 20:15:24,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @reformparty_uk",,phrase_2025,neutral
+https://x.com/LNwire/status/1899787163778068791,2025-03-12 11:38:50,New research from City & Guilds finds a lack of support for nearly one in three neurodiverse employees - Learning Newshttps://learningnews.com/news/city-and-guilds/2025/new-research-from-city-guilds-finds-a-lack-of-support-for-nearly-one-in-three-neurodiverse-employee…@cityandguilds,Unknown,Unknown,Unknown,Unknown,,"@LNwire, @cityandguilds","https://t.co/ugiswQghjY, https://t.co/ugiswQghjY, https://t.co/ugiswQghjY",phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1901720500939698270,2025-03-17 19:41:14,Reforms performance behaving like an ACME anvil in a roadrunner cartoon.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1899781752026988764,2025-03-12 11:17:20,Crab sandwiches lads.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1899566340727308580,2025-03-11 21:01:22,Fancy that,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1901755959317307599,2025-03-17 22:02:08,Don't go marrying forriners people. Parrhesia dossent like it.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1899356099687366750,2025-03-11 07:05:57,I support the thing that hopefully gets me laid.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @SartorialThug",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1899443238731231617,2025-03-11 12:52:12,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ContraryMar_i, @VonBarkenTwins, @MercerCait",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1901719057205772482,2025-03-17 19:35:30,All hail the kebab fairy,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1899782213618614370,2025-03-12 11:19:10,Stone cold dead.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Kent_cc/status/1899805146797731905,2025-03-12 12:50:18,He has thrived since studying for aCity and GuildsLevel 1 Introduction to Hospitality and even took up a work placement at a local pub.,Unknown,Unknown,Unknown,Unknown,,"@Kent_cc, @Kent_cc",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1903816925618061429,2025-03-23 14:31:40,Oh absolutely,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Br_____rd, @MiloShropshire",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1904281395108913405,2025-03-24 21:17:19,Won't be long before the small business is sending their vans to the block (to use your working class parlance) because there won't be anything left under 'your' Government,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1902371601774981246,2025-03-19 14:48:28,Have at these,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @HBrubanter",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1902827722461647218,2025-03-20 21:00:56,It comes as no surprise really. The signs were there,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BurnsideWasTosh",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1903369803865194864,2025-03-22 08:54:58,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @TrevorDistance3",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1903711464990388418,2025-03-23 07:32:37,I do hope he plays it like this,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MercerCait, @LordBriRobert1",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1904070334120149331,2025-03-24 07:18:38,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Ersatz_F",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1904235631208698089,2025-03-24 18:15:28,"Pretty sure you can have a gas bottle supply inside the house. Uk? 
+I think it's 2 x less than 15kg",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @RyanNoKneel",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1903116518474289488,2025-03-21 16:08:30,Too slow,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BlasterCommon",,phrase_2025,negative
+https://x.com/Diana4641429095/status/1903839505347453374,2025-03-23 16:01:24,"3 yearscity and guildsmy husband had, two years before as tea boy on a site and odd jobs . The workmanship now on buildings are shoddy .",Unknown,Unknown,Unknown,Unknown,,@Diana4641429095,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1904069890903871958,2025-03-24 07:16:52,"Draw your own head on here, but you have to keep the moustache",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MysteriosoX",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1903384278613836238,2025-03-22 09:52:29,That's brilliant.  However the also rans are great too,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MissDemeanor07",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1902651935531913603,2025-03-20 09:22:25,Keep going I'm nearly there.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @JeremyCordite, @thesundaysport, @Keir_Starmer",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1903455147574870390,2025-03-22 14:34:06,We could have them.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @IanSlaterPhoto1",,phrase_2025,neutral
+https://x.com/PJMeek10/status/1903902912331342067,2025-03-23 20:13:21,I've heard thatcity and guildsare now not recognised if you need to do a supervisor course..,Unknown,Unknown,Unknown,Unknown,,"@PJMeek10, @TrevorSimp22959, @KingBobIIV, @RachelReevesMP",,phrase_2025,neutral
+https://x.com/TykeToobin/status/1903915036847792475,2025-03-23 21:01:32,"City and Guildsand NVQ trained mech engineer here. Half the recruitment people don't even know what it is. You make hammers?In my second year we had to do electrics, electronics, welding and machining on several types of machines. No tickets, no money. New tickets, new money.",Unknown,Unknown,Unknown,Unknown,,"@TykeToobin, @PJMeek10, @TrevorSimp22959",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1902968676808016182,2025-03-21 06:21:02,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Br_____rd",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1901287259581669685,2025-03-16 14:59:41,Yes. Fisherman delivers it. £10 a kilo caught on the day. Brilliant service,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @StupidNeilAgain",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1902251598945948086,2025-03-19 06:51:37,"Dear Tessie,
 
 Please see points 3, 4 and 5 below
 
@@ -349,48 +349,114 @@ Please see points 3, 4 and 5 below
 
 Yours,
 
-The not stupid.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @theresa_may",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904110966570184876,2025-03-24T10:00:05.000Z,I'm supposed to be grouting,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Toxic_Web",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904108036655870202,2025-03-24T09:48:27.000Z,"""Shovel your muck into my hole""",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @10DowningStreet",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904274478785266001,2025-03-24T20:49:50.000Z,Bruvvah!,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Br_____rd",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901287983644315650,2025-03-16T15:02:34.000Z,Totally agree. Especially on a bbq. Massively underrated,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @StupidNeilAgain",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903349378930077921,2025-03-22T07:33:49.000Z,"Don't bother trying to get anyones attention, I've seen how the film pans out.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Deathisreal99",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902310758953668922,2025-03-19T10:46:42.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ReticentGeniusX, @matkinsj",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902623540039327983,2025-03-20T07:29:35.000Z,Comes as no surprise really,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @thecoastguy",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902488416870113496,2025-03-19T22:32:39.000Z,"Christ, imagine what  Dale steak would look like",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973, @Trailer_Swift69, @somersetlevel",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903784421427150865,2025-03-23T12:22:31.000Z,"So you're adding another layer of bureaucracy then? 
-Fucking brilliant, just when you thought it couldn't get any more stupid.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Keir_Starmer",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901317706554491260,2025-03-16T17:00:40.000Z,Lovely,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @janusvh2",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904107228786815364,2025-03-24T09:45:14.000Z,The filling? Is this like the cones hotline?,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @10DowningStreet",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903925089877311917,2025-03-23T21:41:29.000Z,Martini.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BigJed_one",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902837270962430302,2025-03-20T21:38:53.000Z,"That beer is definitely not two pints. 
+The not stupid.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @theresa_may",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1904110966570184876,2025-03-24 10:00:05,I'm supposed to be grouting,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Toxic_Web",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1904108036655870202,2025-03-24 09:48:27,"""Shovel your muck into my hole""",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @10DowningStreet",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1904274478785266001,2025-03-24 20:49:50,Bruvvah!,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Br_____rd",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1901287983644315650,2025-03-16 15:02:34,Totally agree. Especially on a bbq. Massively underrated,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @StupidNeilAgain",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1903349378930077921,2025-03-22 07:33:49,"Don't bother trying to get anyones attention, I've seen how the film pans out.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Deathisreal99",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1902310758953668922,2025-03-19 10:46:42,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ReticentGeniusX, @matkinsj",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1902623540039327983,2025-03-20 07:29:35,Comes as no surprise really,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @thecoastguy",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1902488416870113496,2025-03-19 22:32:39,"Christ, imagine what  Dale steak would look like",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973, @Trailer_Swift69, @somersetlevel",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1903784421427150865,2025-03-23 12:22:31,"So you're adding another layer of bureaucracy then? 
+Fucking brilliant, just when you thought it couldn't get any more stupid.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Keir_Starmer",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1901317706554491260,2025-03-16 17:00:40,Lovely,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @janusvh2",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1904107228786815364,2025-03-24 09:45:14,The filling? Is this like the cones hotline?,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @10DowningStreet",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1903925089877311917,2025-03-23 21:41:29,Martini.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @BigJed_one",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1902837270962430302,2025-03-20 21:38:53,"That beer is definitely not two pints. 
 We were sold a lie by Whitbread.
-""The pint that thinks its a quart.""",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @matkinsj",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902625930587095436,2025-03-20T07:39:05.000Z,Perfect for the job,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @AmigoNews20, @thecoastguy",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903383094784049554,2025-03-22T09:47:47.000Z,Agreed,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ClaireWestbro14",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904236979853942884,2025-03-24T18:20:49.000Z,"I thought as much. Run a pipe to the bottle outside?
-Contrary had one set up like that",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @RyanNoKneel",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904067578017862142,2025-03-24T07:07:41.000Z,Exactly that,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MercerCait, @fenlandflo",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904164171077333021,2025-03-24T13:31:30.000Z,"This lot. Sorry tweet deleted, pissing around with settings",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MouldyOldDoh, @SwollocksInfo",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901890142324904150,2025-03-18T06:55:19.000Z,"I'm proposing we get together and invade somewhere.  I suggest Madagascar, it's quite big and I reckon we can have them.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @MsPolleeTickle",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901226905359024155,2025-03-16T10:59:51.000Z,From this beauty yesterday,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Xenosmilus4",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901718977644052930,2025-03-17T19:35:11.000Z,All hail the kebab fairy,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902972093441946015,2025-03-21T06:34:37.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @cheshiretoad",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901228526579109899,2025-03-16T11:06:18.000Z,"Luckily we're on the south coast, so will spot you early",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @SurferCosmic",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901312312272621946,2025-03-16T16:39:14.000Z,Yup. Just finished the meal,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Kettle_of_Smeg",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902303925614583833,2025-03-19T10:19:33.000Z,It began here,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ProtoSileaus",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901258681397788835,2025-03-16T13:06:07.000Z,A walk to the pub after should see that off,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @returningfromt2",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901690242941469106,2025-03-17T17:41:00.000Z,"Picked up a box of shite there, but in fairness a lot of SA stuff is shiteRusks remain the worst snack ever, consistency of an engineering brick, takes the roof of your mouth off, then immediately turns into liquid vomit when waved near a hot drink. 
-Isn't it@beastinthehead3?",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Ersatz_F, @beastinthehead3",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901222257428492611,2025-03-16T10:41:23.000Z,"All eaten, but we do have rather an interesting braai going on today. I'll post that",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @DitchTed",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901221667927457806,2025-03-16T10:39:03.000Z,It is black pudding.  Plenty of cold ones in the fridge. See you soon,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @SurferCosmic",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903193956038406391,2025-03-21T21:16:13.000Z,"Jimmy Mo, Simon Mo and David Mo",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @RaymondDuck6",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1902392954825646325,2025-03-19T16:13:19.000Z,Good grief no. Proper builders merchant.  I have an account,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @brishank",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903715264832643381,2025-03-23T07:47:43.000Z,"Brian breaks it down into a complete load of bollocks. It is bot written and bears no resemblance to reality.
-This is reality",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Carlo_9000",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1904147313263595681,2025-03-24T12:24:31.000Z,I'll wait for that update.  I don't anyway,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901536396214468956,2025-03-17T07:29:40.000Z,They need to dig out a frozen alien fast.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901288392190562365,2025-03-16T15:04:11.000Z,Innit.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @StupidNeilAgain",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1903518822885216593,2025-03-22T18:47:07.000Z,Exactly that,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @jayr1972",,phrase_2025
-https://x.com/Mr_Trubshawe/status/1901708615750135821,2025-03-17T18:54:00.000Z,,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @Ersatz_F",,phrase_2025
-https://x.com/BoscoLynch/status/1901999401024786854,2025-03-18T14:09:29.000Z,"All or most multinational companies require, minimum,leaving cert standard..If you are to do a trade,you'll receive s Junior/senior trade certs and yourCity and Guildscert, 3rd level standard..which if you leave the trade ""should suffice"".BUT it depends on the interviewer !!",Unknown,Unknown,Unknown,Unknown,,"@BoscoLynch, @Niall_Boylan",,phrase_2025
+""The pint that thinks its a quart.""",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @matkinsj",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1902625930587095436,2025-03-20 07:39:05,Perfect for the job,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @AmigoNews20, @thecoastguy",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1903383094784049554,2025-03-22 09:47:47,Agreed,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ClaireWestbro14",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1904236979853942884,2025-03-24 18:20:49,"I thought as much. Run a pipe to the bottle outside?
+Contrary had one set up like that",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @RyanNoKneel",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1904067578017862142,2025-03-24 07:07:41,Exactly that,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MercerCait, @fenlandflo",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1904164171077333021,2025-03-24 13:31:30,"This lot. Sorry tweet deleted, pissing around with settings",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MouldyOldDoh, @SwollocksInfo",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1901890142324904150,2025-03-18 06:55:19,"I'm proposing we get together and invade somewhere.  I suggest Madagascar, it's quite big and I reckon we can have them.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @MsPolleeTickle",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1901226905359024155,2025-03-16 10:59:51,From this beauty yesterday,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Xenosmilus4",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1901718977644052930,2025-03-17 19:35:11,All hail the kebab fairy,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @CSG1973",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1902972093441946015,2025-03-21 06:34:37,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @cheshiretoad",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1901228526579109899,2025-03-16 11:06:18,"Luckily we're on the south coast, so will spot you early",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @SurferCosmic",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1901312312272621946,2025-03-16 16:39:14,Yup. Just finished the meal,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Kettle_of_Smeg",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1902303925614583833,2025-03-19 10:19:33,It began here,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @ProtoSileaus",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1901258681397788835,2025-03-16 13:06:07,A walk to the pub after should see that off,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @returningfromt2",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1901690242941469106,2025-03-17 17:41:00,"Picked up a box of shite there, but in fairness a lot of SA stuff is shiteRusks remain the worst snack ever, consistency of an engineering brick, takes the roof of your mouth off, then immediately turns into liquid vomit when waved near a hot drink. 
+Isn't it@beastinthehead3?",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Ersatz_F, @beastinthehead3",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1901222257428492611,2025-03-16 10:41:23,"All eaten, but we do have rather an interesting braai going on today. I'll post that",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @DitchTed",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1901221667927457806,2025-03-16 10:39:03,It is black pudding.  Plenty of cold ones in the fridge. See you soon,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @SurferCosmic",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1903193956038406391,2025-03-21 21:16:13,"Jimmy Mo, Simon Mo and David Mo",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @RaymondDuck6",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1902392954825646325,2025-03-19 16:13:19,Good grief no. Proper builders merchant.  I have an account,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @brishank",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1903715264832643381,2025-03-23 07:47:43,"Brian breaks it down into a complete load of bollocks. It is bot written and bears no resemblance to reality.
+This is reality",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Carlo_9000",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1904147313263595681,2025-03-24 12:24:31,I'll wait for that update.  I don't anyway,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1901536396214468956,2025-03-17 07:29:40,They need to dig out a frozen alien fast.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1901288392190562365,2025-03-16 15:04:11,Innit.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @StupidNeilAgain",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1903518822885216593,2025-03-22 18:47:07,Exactly that,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @jayr1972",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1901708615750135821,2025-03-17 18:54:00,,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3, @Ersatz_F",,phrase_2025,unknown
+https://x.com/BoscoLynch/status/1901999401024786854,2025-03-18 14:09:29,"All or most multinational companies require, minimum,leaving cert standard..If you are to do a trade,you'll receive s Junior/senior trade certs and yourCity and Guildscert, 3rd level standard..which if you leave the trade ""should suffice"".BUT it depends on the interviewer !!",Unknown,Unknown,Unknown,Unknown,,"@BoscoLynch, @Niall_Boylan",,phrase_2025,neutral
+https://x.com/fmbuilders/status/1908275954654282194,2025-04-04T21:50:16.000Z,"A massive congratulations to Callum Jones of MJ  Construction – winner of Cymru Apprentice of the Year at the 2025.
+
+Callum’s positivity, resilience, and passion for the craft stood out to everyone around him. A future leader in the making.City and Guildssupported his award",Unknown,Unknown,Unknown,Unknown,,@fmbuilders,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1908617052216062164,2025-04-05T20:25:40.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/ableskills/status/1905923059250348147,2025-03-29T10:00:42.000Z,"Learn how to fit a kitchen on our City & Guilds accredited course.
+
+This short intensive course is ideal for those of you who want some introductory kitchen fitting skills with aCity and Guildscertificate at the endhttps://ow.ly/9g5650VpQJE",Unknown,Unknown,Unknown,Unknown,,@ableskills,https://t.co/OuQqgYsPbH,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1908432220924092424,2025-04-05T08:11:13.000Z,"This mornings daggy breakfast in bed is last nights *Emergency Pizzaᵀᴹ
+
+*cheap pizza with added chorizo, capers, anchovies etc.  For consumption after the pub.
+
+It's Sriracha, I slipped with the near empty bottle with the lid off.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908419977440337955,2025-04-05T07:22:34.000Z,Fancy that,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Wiblicks/status/1905621989076676885,2025-03-28T14:04:21.000Z,"Thank God no one was actually living in the pile of junk. I Pink say this as a LondonCity and Guildsregistered Construction Engineer. Earthquakes can't be tamed and thus it's why Geologists invented ""Earthquake Zone"" so stupid junk buildings didn't get built.",Unknown,Unknown,Unknown,Unknown,,@Wiblicks,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908062940323868922,2025-04-04T07:43:49.000Z,Going to look beautiful with a Mosque on top. Just what it needs. Serve the local community tremendously that.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Camoron_Dave/status/1906651117141840058,2025-03-31T10:13:44.000Z,"The advantage of being educated beyondCity and Guilds, and The Sun News Paper",Unknown,Unknown,Unknown,Unknown,,"@Camoron_Dave, @BoyCharioteer",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908433825350242583,2025-04-05T08:17:35.000Z,Fancy that,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1908095779656352117,2025-04-04T09:54:19.000Z,Mine has an empty one of these,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @HoofTurf",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908098311250145580,2025-04-04T10:04:22.000Z,100% This,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/romeocza/status/1905964338084524417,2025-03-29T12:44:43.000Z,"240 students will today graduate from DASAC Skills Acquisition centre with Trade test 2 or 3. 
+
+DASAC with endorsement from UNILAG, is in talks withCity and GuildsLondon, Nigeria Society of Engineers etc for accreditation.
+
+HCD of Akwa Ibomites is the goal of HE@_PastorUmoEno",Unknown,Unknown,Unknown,Unknown,,"@romeocza, @_PastorUmoEno",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908435478405144689,2025-04-05T08:24:09.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Wasabi_Cheetah, @firearmvideos",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908616434411876769,2025-04-05T20:23:12.000Z,"These need to be collated, even on a site like this.#UKDeaths",Unknown,Unknown,Unknown,Unknown,#UKDeaths,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908571441957642689,2025-04-05T17:24:25.000Z,"I was today years old when I found out that 'Geoff' means 'putting on pants( I assume trousers, because not everyone is American)",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908153272793190570,2025-04-04T13:42:46.000Z,It's that beach.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @sarcitwat_, @cpj4sussex77",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908596784387285344,2025-04-05T19:05:08.000Z,Beer from Essex. Meh.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,"https://t.co/B71vJDfM5r, https://t.co/B71vJDfM5r",phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908423951794979243,2025-04-05T07:38:21.000Z,I must take Contrary to Peasholm Park,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/grok/status/1905225716599304489,2025-03-27T11:49:42.000Z,"Triumphant College seems like a solid choice—accredited by the Namibia Qualification Authority, it offers diverse programs from certificates to postgraduate degrees in business, engineering, and more. It has international partnerships with ABMA,City and Guilds, and others,",Unknown,Unknown,Unknown,Unknown,,"@grok, @Charles82333973",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1908158268511334537,2025-04-04T14:02:37.000Z,I'm going with yes,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister, @____GAZ_____",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908064214540763562,2025-04-04T07:48:53.000Z,Someone explain the nickname 'Shivering Mountain' to Abdul,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908124094442160516,2025-04-04T11:46:50.000Z,Bloody tourists clogging the beach up again.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908554924327051345,2025-04-05T16:18:47.000Z,Braaibroodjies bastard,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908564891172028814,2025-04-05T16:58:24.000Z,Any person unable to reverse 100 yards on a rural road using only their wing mirrors,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @HBrubanter",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908608021380366842,2025-04-05T19:49:47.000Z,Unknown,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @RealEmirHan",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908569248055910743,2025-04-05T17:15:42.000Z,"Have the motorcar returned to Hoopers.
+Why M'lord?
+It displeases me.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1907879942362198434,2025-04-03T19:36:39.000Z,Yeah but that means getting up early,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Jo121077",,phrase_2025,neutral
+https://x.com/davedeaker4/status/1907363592028205386,2025-04-02T09:24:52.000Z,Did my apprenticeship in the seventy. Got mycity and guilds.had a great career as a chef .now  retired,Unknown,Unknown,Unknown,Unknown,,"@davedeaker4, @Jenny_1884",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1908066478626046450,2025-04-04T07:57:53.000Z,Hope they build it. Mam Tor isn't called The shivering mountain for nothing.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Basil_TGMD, @Mackenz46950920",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908061885439656387,2025-04-04T07:39:38.000Z,50p a p now lads.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908441167152226417,2025-04-05T08:46:46.000Z,"Every 3rd post on here is anger. Even the NPCs are getting wound up in the real world.  It's going to be an interesting summer. 
+Tommy Robinson is due for release in July. 
+Starmer made a huge mistake tightening the pressure cooker lid.",Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908414602217398412,2025-04-05T07:01:12.000Z,"Not really.  The mountain is unstable and can not support any structure. The road up alongside it collapsed many years ago. 
+Besides that it was put out on April 1st.",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @KingBobIIV",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908602865657995440,2025-04-05T19:29:17.000Z,"It's an MP, it's all the safe",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @TheNelsonAgain",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908183189832544399,2025-04-04T15:41:39.000Z,Shit. Keir should sit his family down in front of that instead of that adolescence bollocks,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @____GAZ_____",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908096536015196661,2025-04-04T09:57:19.000Z,Shut the borders and introduce remigration? Of course,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @beastinthehead3",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908601724136546542,2025-04-05T19:24:45.000Z,Oh for fuck sake,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1907737920116552126,2025-04-03T10:12:18.000Z,I can't help if there are two Gotham Cities. I have been in Stoke you know,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MiloShropshire",,phrase_2025,neutral
+https://x.com/Spitzenberger66/status/1905603281516196191,2025-03-28T12:50:01.000Z,"The problem is, alot of people think it is below them to have a life with  trade behind you.
+NVQ's didn't help with training, a solid 3 yr apprenticeship withcity and guildsqualifications should set you up for life.",Unknown,Unknown,Unknown,Unknown,,"@Spitzenberger66, @Sargon_of_Akkad",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908600838693822782,2025-04-05T19:21:14.000Z,Bail for the MP suspected of child rape here.,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908599969864704196,2025-04-05T19:17:47.000Z,It really is pitchfork time,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1908155823685001666,2025-04-04T13:52:54.000Z,That thing that doesn't happen has happened again,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908096127938818179,2025-04-04T09:55:42.000Z,Be brilliant to watch it end up the same way as the Castleton Road mind.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @Ally_Fraser",,phrase_2025,positive
+https://x.com/Mr_Trubshawe/status/1908144960727044331,2025-04-04T13:09:44.000Z,It's quietened down now. Was heaving,Unknown,Unknown,Unknown,Unknown,,@Mr_Trubshawe,,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908602461394199009,2025-04-05T19:27:41.000Z,"The Nelson is a youthful cove, unlike myself",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @notbilge2, @TheNelsonAgain",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908434390994088134,2025-04-05T08:19:50.000Z,Look up Peasholm Park naval battle on YouTube. It makes this look tiny.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @janusvh2",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908554586773668121,2025-04-05T16:17:27.000Z,"Yes, it used to be River Plate before they changed it to 'sea battle' in the 80s",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @WanderingFister",,phrase_2025,neutral
+https://x.com/Mr_Trubshawe/status/1908160016743272918,2025-04-04T14:09:34.000Z,"Shocking. Well, it should be, but it's just commonplace now",Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @fenlandflo",,phrase_2025,negative
+https://x.com/Mr_Trubshawe/status/1908429290066043209,2025-04-05T07:59:34.000Z,Surprised he doesn't have a season ticket.,Unknown,Unknown,Unknown,Unknown,,"@Mr_Trubshawe, @MercerCait",,phrase_2025,negative
