@@ -1,1 +1,47 @@
-.Rproj.user
+# RStudio project files (not needed in version control)
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# renv — keep only the lockfile
+renv/
+!renv.lock
+
+# Operating system temp files
+.DS_Store
+Thumbs.db
+
+# Temporary or session-specific files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Raw or intermediate data files
+*.csv
+*.tsv
+*.rds
+*.rda
+*.xlsx
+*.xls
+
+# Compiled vignettes or docs (optional — if you don't want to version HTML/PDF)
+vignettes/*.html
+vignettes/*.pdf
+
+# Packrat (if accidentally initialized)
+packrat/
+
+# Cache and build artifacts
+.Rcheck/
+.Rbuildignore
+NAMESPACE
+man/
+
+# Shiny-specific (optional, if you use bookmarks)
+shiny_bookmarks/
+
+# VSCode and other IDEs
+.vscode/
