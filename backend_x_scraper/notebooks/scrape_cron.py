@@ -20,7 +20,7 @@ def get_previous_week_range():
     """
     today = datetime.now().date()
     end_date = today - timedelta(days=1)  # yesterday
-    start_date = end_date - timedelta(days=10)  # 6 days before yesterday
+    start_date = end_date - timedelta(days=14)  # 6 days before yesterday
     return start_date.strftime("%Y-%m-%d"), end_date.strftime("%Y-%m-%d")
 
 
