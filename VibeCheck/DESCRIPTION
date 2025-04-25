@@ -1,11 +1,10 @@
 Package: VibeCheck
-Title: What the Package Does (One Line, Title Case)
+Title: Checks the Vibe on Social!
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Tom", "Hunter", , "tom.hunter@cityandguilds.com", role = c("aut", "cre"))
+Description: Allows the user to interact with bank of X data going back to 2015. Data is all tweets by, to, mentioning, hashtagging City and Guilds and their properties all behind an intuitive R Shiny user interface.
+License: file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
