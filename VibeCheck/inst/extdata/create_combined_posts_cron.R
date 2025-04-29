@@ -9,6 +9,8 @@ library(httr)
 library(here)
 # Add furrr for parallel processing
 library(furrr)
+library(purrr)
+library(ellmer)
 
 combined_posts <- readRDS(file = here("data", "combined_posts.rds"))
 
@@ -65,7 +67,7 @@ updated_posts <- updated_posts |>
 
 ########################## POST LENGTH CALCULATION ############################
 # Add post length calculations (with and without spaces)
-updated_posts <- updated_posts %>%
+updated_posts <- updated_posts |>
   mutate(
     # Calculate post length with spaces (standard readable length)
     post_length = nchar(text),
@@ -100,7 +102,7 @@ updated_posts <- updated_posts |>
 ########################## PROCESS NEW DATA ####################################
 ########################## ENGINEER FEATURES -----------------------------------
 #------------------------- DATE INFO -------------------------------------------
-updated_posts <- updated_posts %>%
+updated_posts <- updated_posts |>
   mutate(
     calendar_year = year(created_at),
     financial_year = if_else(
@@ -148,7 +150,7 @@ updated_posts <- updated_posts %>%
   )
 
 #------------------------- POST URL EXTRACTIONS -----------------------------------
-updated_posts <- updated_posts %>%
+updated_posts <- updated_posts |>
   mutate(
     # Extract the account name: characters after "https://x.com/" and before the next "/"
     poster_account = str_extract(post_url, "(?<=https://x\\.com/)[^/]+"),
@@ -189,7 +191,7 @@ updated_posts <- updated_posts %>%
     )
   )
 #------------------------- mentions EXTRACTIONS -----------------------------------
-updated_posts <- updated_posts %>%
+updated_posts <- updated_posts |>
   # Overwrite mentions with a list of individual, trimmed, and lowercased mention strings
   mutate(
     mentions = map(
@@ -200,7 +202,7 @@ updated_posts <- updated_posts %>%
         map_chr(str_split(.x, pattern = ",")[[1]], ~ str_to_lower(str_trim(.x)))
       }
     )
-  ) %>%
+  ) |>
   # Compute counts and categorical variables for mentions
   mutate(
     num_mentions = map_int(mentions, length),
@@ -220,7 +222,7 @@ updated_posts <- updated_posts %>%
   )
 
 #------------------------- attached url EXTRACTIONS -------------------------------
-updated_posts <- updated_posts %>%
+updated_posts <- updated_posts |>
   # Process URLs: split by comma, trim whitespace
   mutate(
     urls = map(
@@ -231,7 +233,7 @@ updated_posts <- updated_posts %>%
         map_chr(str_split(.x, pattern = ",")[[1]], ~ str_trim(.x))
       }
     )
-  ) %>%
+  ) |>
   # Compute counts and categorical variables for URLs
   mutate(
     num_urls = map_int(urls, length),
@@ -250,7 +252,7 @@ updated_posts <- updated_posts %>%
   )
 
 #------------------------- EXTRA POST CONTENT ##################################
-updated_posts <- updated_posts %>%
+updated_posts <- updated_posts |>
   mutate(
     # Total add-ons: sum of hashtags, mentions, and urls counts
     total_add_ons = num_hashtags + num_mentions + num_urls,
@@ -272,6 +274,51 @@ updated_posts <- updated_posts %>%
     )
   )
 
+########################## EXTENDED SENTIMENT  #################################
+# start a chat
+system_prompt <- "You are an expert tweet-type annotator for organizational tweets and mentions.
+Classify each prompt into exactly one of the following categories.
+Your answer must be strictly one word and must be exactly one of the options listed below (no other words allowed).
+
+Definitions:
+Announcement: Official news, updates, launches, or changes.
+Advertisement: Promotional content, product or service pitches, sales messages.
+Opinion: An expression of a personal or organizational view, stance, or perspective.
+Question: A request for information, input, or clarification.
+Response: A reply to another tweet or message, addressing a previous statement or inquiry.
+Engagement: Conversation starters, polls, or other efforts to interact with the community.
+Event: Information about an upcoming or past event, webinar, or conference.
+Support: Offering help, troubleshooting, or customer service.
+Recruitment: Job postings, hiring messages, or internship opportunities.
+Recognition: Acknowledgment or highlighting of achievements, milestones, or individuals.
+Information: Sharing facts, tips, statistics, or educational content.
+Alert: Warnings, urgent messages, or time-sensitive updates.
+Complaint: Expression of dissatisfaction or reporting a problem.
+Praise: Expressions of positive feedback, commendations, or endorsements.
+Request: Asking for a specific action, resource, or outcome.
+Thanks: Explicit expressions of gratitude.
+
+For each prompt, reply with only one of these options and nothing else."
+
+chat <- chat_ollama(
+  model = "gemma3:latest",
+  system_prompt = system_prompt
+)
+
+# loop through all of the text column (i.e., the post) and carry out an extended, more experimental sentiment analysis on it
+updated_posts <- updated_posts |>
+  mutate(
+    sentiment_extended = map_chr(text, function(post_text) {
+      chat$set_turns(list(Turn("system", system_prompt)))
+      chat$chat(post_text)
+    })
+  )
+
+# concatenate sentiment and sentiment_extended
+combined_posts <- combined_posts |>
+  mutate(sentiment_combined = paste(sentiment, sentiment_extended, sep = "-"))
+
+
 ########################## ATTATCHED URL CONVERSION ############################
 # Enhanced URL expansion function with retries
 expand_url <- function(url, max_attempts = 3) {
@@ -289,7 +336,7 @@ available_cores <- max(1, available_cores) # Ensure at least 1 core
 plan(multisession, workers = min(available_cores, 3))
 
 # Apply the expansion function to each element of the urls list-column in parallel
-updated_posts <- updated_posts %>%
+updated_posts <- updated_posts |>
   mutate(
     expanded_urls = future_map(
       urls,
