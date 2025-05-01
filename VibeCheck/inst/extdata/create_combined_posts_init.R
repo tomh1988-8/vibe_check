@@ -280,21 +280,123 @@ Thanks: Explicit expressions of gratitude.
 
 For each prompt, reply with only one of these options and nothing else."
 
-chat <- chat_ollama(
-  model = "gemma3:latest",
-  system_prompt = system_prompt
+# Function to handle LLM calls with retries
+make_llm_call <- function(chat_obj, text_input, max_retries = 5) {
+  attempt <- 1
+  while (attempt <= max_retries) {
+    tryCatch(
+      {
+        # Reset the chat context
+        chat_obj$set_turns(list(Turn("system", system_prompt)))
+        # Make the call
+        result <- chat_obj$chat(text_input)
+        return(result) # Success - return the result
+      },
+      error = function(e) {
+        cat("LLM call failed on attempt", attempt, ":", e$message, "\n")
+        if (attempt < max_retries) {
+          wait_time <- 3 * attempt # Increasing backoff
+          cat("Waiting", wait_time, "seconds before retry...\n")
+          Sys.sleep(wait_time)
+          # Try to reinitialize the chat if possible
+          tryCatch(
+            {
+              chat_obj <- chat_ollama(
+                model = "gemma3:latest",
+                system_prompt = system_prompt
+              )
+              cat("Reinitialized LLM connection\n")
+            },
+            error = function(e2) {
+              cat(
+                "Failed to reinitialize connection, continuing with existing one\n"
+              )
+            }
+          )
+        }
+      }
+    )
+    attempt <- attempt + 1
+  }
+  # If we get here, all attempts failed
+  cat("All", max_retries, "attempts failed. Returning default value.\n")
+  return("Information") # Default fallback
+}
+
+# Create a backup function for periodic saving
+create_backup <- function(data, suffix = "") {
+  backup_file <- here(
+    "data",
+    paste0(
+      "combined_posts_backup_",
+      format(Sys.time(), "%Y%m%d_%H%M%S"),
+      suffix,
+      ".rds"
+    )
+  )
+  saveRDS(data, backup_file)
+  cat("Created backup:", backup_file, "\n")
+}
+
+# Initialize the chat
+chat <- tryCatch(
+  {
+    chat_ollama(model = "gemma3:latest", system_prompt = system_prompt)
+  },
+  error = function(e) {
+    stop(
+      "Failed to initialize LLM. Please check if Ollama is running: ",
+      e$message
+    )
+  }
 )
 
-# loop through all of the text column (i.e., the post) and carry out an extended, more experimental sentiment analysis on it
-combined_posts <- combined_posts |>
-  mutate(
-    sentiment_extended = map_chr(text, function(post_text) {
-      chat$set_turns(list(Turn("system", system_prompt)))
-      chat$chat(post_text)
-    })
-  )
+# Create a backup before processing
+create_backup(combined_posts, "_pre_sentiment")
 
-# concatenate sentiment and sentiment_extended
+# Check if sentiment_extended column exists and add if needed
+if (!"sentiment_extended" %in% colnames(combined_posts)) {
+  combined_posts$sentiment_extended <- NA_character_
+}
+
+# Process in batches for better resilience - do 500 at a time and save
+batch_size <- 500
+n_rows <- nrow(combined_posts)
+processed_count <- 0
+
+for (i in 1:n_rows) {
+  # Skip if already processed
+  if (
+    !is.na(combined_posts$sentiment_extended[i]) &&
+      combined_posts$sentiment_extended[i] != ""
+  ) {
+    next
+  }
+
+  # Get post text
+  post_text <- combined_posts$text[i]
+
+  # Process with error handling
+  cat("Processing row", i, "of", n_rows, "\n")
+  sentiment_result <- make_llm_call(chat, post_text)
+
+  # Update the dataframe
+  combined_posts$sentiment_extended[i] <- sentiment_result
+
+  # Increment counter
+  processed_count <- processed_count + 1
+
+  # Create backup every batch_size rows
+  if (processed_count %% batch_size == 0) {
+    create_backup(combined_posts, paste0("_batch_", processed_count))
+
+    # Also update the main file
+    saveRDS(combined_posts, file = here("data", "combined_posts.rds"))
+    cat("Saved main data file after processing", processed_count, "rows\n")
+  }
+}
+
+# Update sentiment_combined for all rows
 combined_posts <- combined_posts |>
   mutate(sentiment_combined = paste(sentiment, sentiment_extended, sep = "-"))
 
@@ -335,5 +437,14 @@ plan(sequential)
 # Free up memory
 gc()
 
+# Create final backup
+create_backup(combined_posts, "_final")
+
 # Write to /data
 saveRDS(combined_posts, file = here("data", "combined_posts.rds"))
+
+cat(
+  "Processing complete! Processed",
+  processed_count,
+  "rows with sentiment analysis.\n"
+)
