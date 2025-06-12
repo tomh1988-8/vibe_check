@@ -1,17 +1,39 @@
+#' Run the VibeCheck Shiny application
+#'
+#' @param authenticate Whether to enable authentication using shinymanager
+#' @param debug Whether to enable debug mode with additional logging
+#'
+#' @return A Shiny application object
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' VibeCheck()
+#' VibeCheck(authenticate = FALSE)
+#' VibeCheck(debug = TRUE)
+#' }
 VibeCheck <- function(authenticate = TRUE, debug = FALSE) {
-  # Source global, UI, and server code from the inst/app directory
-  source("inst/app/global.R", local = TRUE)
-  source("inst/app/app_ui.R", local = TRUE)
-  source("inst/app/app_server.R", local = TRUE)
+  # Set debug option
+  options(vibe_check.debug = debug)
 
-  # Ensure that the UI is assigned to the expected variable.
-  # If your UI is defined as 'app_ui' in app_ui.R, assign it to 'ui' here:
-  ui <- app_ui
+  # Source global, UI, and server code from the inst/app directory
+  source(system.file("app", "global.R", package = "VibeCheck"), local = TRUE)
+  source(system.file("app", "app_ui.R", package = "VibeCheck"), local = TRUE)
+  source(
+    system.file("app", "app_server.R", package = "VibeCheck"),
+    local = TRUE
+  )
 
   # Optionally wrap the UI with shinymanager if authentication is enabled
   if (authenticate) {
-    ui <- shinymanager::secure_app(
-      ui,
+    if (!requireNamespace("shinymanager", quietly = TRUE)) {
+      stop(
+        "Package 'shinymanager' is needed for authentication. Please install it.",
+        call. = FALSE
+      )
+    }
+    app_ui <- shinymanager::secure_app(
+      app_ui,
       enable_admin = TRUE,
       fab_position = "bottom-left"
     )
@@ -19,8 +41,8 @@ VibeCheck <- function(authenticate = TRUE, debug = FALSE) {
 
   # Launch the Shiny application
   shiny::shinyApp(
-    ui = ui,
+    ui = app_ui,
     server = server,
-    option = list(launch.browser = TRUE)
+    options = list(launch.browser = TRUE)
   )
 }

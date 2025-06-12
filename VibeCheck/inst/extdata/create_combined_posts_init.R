@@ -302,7 +302,7 @@ make_llm_call <- function(chat_obj, text_input, max_retries = 5) {
           tryCatch(
             {
               chat_obj <- chat_ollama(
-                model = "gemma3:latest",
+                model = "gemma3:4b-it-qat",
                 system_prompt = system_prompt
               )
               cat("Reinitialized LLM connection\n")
